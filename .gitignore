@@ -1,0 +1,37 @@
+# Xcode
+.DS_Store
+*.swp
+*.lock
+
+# User-specific
+xcuserdata/
+
+# Build generated
+DerivedData/
+*.build/
+*.hmap
+*.ipa
+*.xg
+build/
+
+# Swift Package Manager
+.swiftpm/xcode/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Bundle artifacts
+*.mode1v3
+*.mode2v3
+*.pbuser
+*.perspectivev3
+!default.pbuser
+!default.perspectivev3
