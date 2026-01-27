@@ -46,8 +46,8 @@ struct HistoryCard: View {
                     .fontWeight(.medium)
                     .lineLimit(2)
 
-                if let location = item.location, location.showOnMap {
-                    Label(location.name, systemImage: "mappin")
+                if let location = item.location, location.shouldShowOnMap {
+                    Label(location.displayName, systemImage: "mappin")
                         .font(.caption2)
                         .foregroundStyle(.secondary)
                         .lineLimit(1)

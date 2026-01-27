@@ -53,7 +53,7 @@ final class PersistedItem {
         self.locationRegion = item.location?.region
         self.locationLatitude = item.location?.latitude
         self.locationLongitude = item.location?.longitude
-        self.locationShowOnMap = item.location?.showOnMap ?? false
+        self.locationShowOnMap = item.location?.shouldShowOnMap ?? false
         self.tags = item.tags
         self.mineralMonday = item.mineralMonday
     }
@@ -71,14 +71,20 @@ final class PersistedItem {
     }
 
     func toCuriosityItem() -> CuriosityItem {
-        let location: LocationData? = locationName.map { name in
-            LocationData(
-                name: name,
+        let location: LocationData?
+        if locationName != nil || locationRegion != nil {
+            location = LocationData(
+                name: locationName,
                 region: locationRegion,
                 latitude: locationLatitude,
                 longitude: locationLongitude,
-                showOnMap: locationShowOnMap
+                showOnMap: locationShowOnMap,
+                locality: nil,
+                state: nil,
+                country: nil
             )
+        } else {
+            location = nil
         }
 
         return CuriosityItem(

@@ -89,7 +89,10 @@ extension CuriosityItem {
                 region: "Central Highlands",
                 latitude: -37.5622,
                 longitude: 143.8503,
-                showOnMap: true
+                showOnMap: true,
+                locality: nil,
+                state: nil,
+                country: nil
             ),
             tags: ["geology", "minerals", "mineral-monday"],
             mineralMonday: true

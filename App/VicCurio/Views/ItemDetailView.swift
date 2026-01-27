@@ -88,7 +88,7 @@ struct ItemDetailView: View {
                         }
 
                         // Map
-                        if let location = item.location, location.showOnMap, let coordinate = location.coordinate {
+                        if let location = item.location, location.shouldShowOnMap, let coordinate = location.coordinate {
                             VStack(alignment: .leading, spacing: 8) {
                                 Label(location.displayName, systemImage: "mappin")
                                     .font(.subheadline)

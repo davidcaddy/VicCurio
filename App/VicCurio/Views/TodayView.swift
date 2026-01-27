@@ -127,7 +127,7 @@ struct TodayView: View {
                 }
 
                 // Location
-                if let location = item.location, location.showOnMap {
+                if let location = item.location, location.shouldShowOnMap {
                     Label(location.displayName, systemImage: "mappin")
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
