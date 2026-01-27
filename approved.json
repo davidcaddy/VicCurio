@@ -1,5 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "",
-  "items": []
+  "generatedAt": "2026-01-27T13:53:29.639691Z",
+  "items": [
+    {
+      "id": "items/1202051",
+      "displayDate": "2026-01-28",
+      "title": "Sandals - Paragon, Belle Chaussure, 'Corso', Gold, Olive & Light Green, 1983",
+      "summary": "Pair of sandals with striped panels of strips of leather in gold, olive and light green. Low stacked Cuban heel, cross-over vamp, open toe and ankle strap uppers. Part of the Belle Chaussure, 'Corso' range, made in 1983 by Paragon. These sandals were worn by the donor. Paragon Shoes Pty Ltd was one of the most significant 20th century Australian shoe retailers, and at one time was the largest manufacturer of high quality of women's shoes in Australia. Its factory was located in Melbourne, and its shoes were sold throughout Australia and New Zealand.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1202051.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1202051-thumb.webp",
+      "aspectRatio": 1.345,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1202051",
+      "location": {
+        "country": "Australia",
+        "locality": "Melbourne",
+        "region": "Greater Melbourne",
+        "state": "Victoria"
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    }
+  ]
 }
