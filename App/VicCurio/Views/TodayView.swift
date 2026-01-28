@@ -15,7 +15,8 @@ struct TodayView: View {
     @State private var todayItem: CuriosityItem?
     @State private var isLoading = true
     @State private var errorMessage: String?
-    @State private var showingDetail = false
+    @State private var showingWebView = false
+    @State private var isFavourite = false
 
     private var favouritesService: FavouritesService {
         FavouritesService(modelContext: modelContext)
@@ -41,9 +42,9 @@ struct TodayView: View {
             .task {
                 await loadTodaysItem()
             }
-            .sheet(isPresented: $showingDetail) {
+            .sheet(isPresented: $showingWebView) {
                 if let item = todayItem {
-                    ItemDetailView(item: item)
+                    MuseumWebView(url: item.museumUrl)
                 }
             }
         }
@@ -62,108 +63,44 @@ struct TodayView: View {
     }
 
     private func itemContent(_ item: CuriosityItem) -> some View {
-        VStack(alignment: .leading, spacing: 16) {
-            // Hero image
-            AsyncImage(url: item.imageUrl) { phase in
-                switch phase {
-                case .empty:
-                    Rectangle()
-                        .fill(Color.gray.opacity(0.2))
-                        .aspectRatio(item.aspectRatio ?? 1.0, contentMode: .fit)
-                        .overlay {
-                            ProgressView()
-                        }
-                case .success(let image):
-                    image
-                        .resizable()
-                        .aspectRatio(contentMode: .fit)
-                case .failure:
-                    Rectangle()
-                        .fill(Color.gray.opacity(0.2))
-                        .aspectRatio(item.aspectRatio ?? 1.0, contentMode: .fit)
-                        .overlay {
-                            Image(systemName: "photo")
-                                .font(.largeTitle)
-                                .foregroundStyle(.secondary)
-                        }
-                @unknown default:
-                    EmptyView()
-                }
-            }
-            .clipShape(RoundedRectangle(cornerRadius: 16))
-            .onTapGesture {
-                showingDetail = true
-            }
+        VStack(alignment: .leading, spacing: 0) {
+            // Shared content (no map on today view, keeps it focused)
+            ItemContentView(
+                item: item,
+                showDate: false,
+                showMap: false,
+                onImageTap: { showingWebView = true }
+            )
 
-            // Content
-            VStack(alignment: .leading, spacing: 12) {
-                // Mineral Monday badge
-                if item.isMineralMonday {
-                    MineralMondayBadge()
-                }
-
-                // Title
-                Text(item.title)
-                    .font(.title2)
-                    .fontWeight(.bold)
-
-                // Summary
-                Text(item.summary)
-                    .font(.body)
-                    .foregroundStyle(.secondary)
-
-                // Fun fact
-                if let funFact = item.funFact {
-                    HStack(alignment: .top, spacing: 8) {
-                        Image(systemName: "lightbulb.fill")
-                            .foregroundStyle(.yellow)
-                        Text(funFact)
-                            .font(.callout)
-                            .italic()
+            // Action buttons
+            HStack(spacing: 16) {
+                Button {
+                    withAnimation(.easeInOut(duration: 0.2)) {
+                        isFavourite.toggle()
                     }
-                    .padding()
-                    .background(Color.yellow.opacity(0.1))
-                    .clipShape(RoundedRectangle(cornerRadius: 8))
+                    favouritesService.toggleFavourite(for: item)
+                } label: {
+                    Label(
+                        isFavourite ? "Saved" : "Save",
+                        systemImage: isFavourite ? "heart.fill" : "heart"
+                    )
                 }
+                .buttonStyle(.bordered)
+                .tint(isFavourite ? .red : .primary)
+                .sensoryFeedback(.impact(flexibility: .soft), trigger: isFavourite)
 
-                // Location
-                if let location = item.location, location.shouldShowOnMap {
-                    Label(location.displayName, systemImage: "mappin")
-                        .font(.subheadline)
-                        .foregroundStyle(.secondary)
+                Button {
+                    showingWebView = true
+                } label: {
+                    Label("Learn More", systemImage: "arrow.up.right.square")
                 }
+                .buttonStyle(.bordered)
 
-                // Action buttons
-                HStack(spacing: 16) {
-                    Button {
-                        favouritesService.toggleFavourite(for: item)
-                    } label: {
-                        Label(
-                            favouritesService.isFavourite(item) ? "Saved" : "Save",
-                            systemImage: favouritesService.isFavourite(item) ? "heart.fill" : "heart"
-                        )
-                    }
-                    .buttonStyle(.bordered)
-                    .tint(favouritesService.isFavourite(item) ? .red : .primary)
-
-                    Button {
-                        showingDetail = true
-                    } label: {
-                        Label("Learn More", systemImage: "info.circle")
-                    }
-                    .buttonStyle(.bordered)
-
-                    Spacer()
-                }
-
-                // Attribution
-                Text(item.attributionText)
-                    .font(.caption)
-                    .foregroundStyle(.tertiary)
+                Spacer()
             }
             .padding(.horizontal)
+            .padding(.bottom)
         }
-        .padding(.vertical)
     }
 
     private func errorView(_ message: String) -> some View {
@@ -200,6 +137,7 @@ struct TodayView: View {
         do {
             let item = try await feedService.fetchTodaysItem(modelContext: modelContext)
             todayItem = item
+            isFavourite = favouritesService.isFavourite(item)
             favouritesService.markAsViewed(item)
         } catch let error as FeedService.FeedError {
             errorMessage = error.errorDescription

@@ -392,6 +392,7 @@ struct VicCurioWidget: Widget {
         .configurationDisplayName("VicCurio")
         .description("Today's curiosity from Museums Victoria")
         .supportedFamilies([.systemSmall, .systemMedium, .systemLarge])
+        .contentMarginsDisabled()
     }
 }
 
