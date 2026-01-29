@@ -46,7 +46,7 @@ struct WidgetItem: Codable {
 
 struct Provider: TimelineProvider {
     private let feedURL = URL(string: "https://davidcaddy.github.io/VicCurio/approved.json")!
-    private let appGroupID = "group.com.example.viccurio"
+    private let appGroupID = "group.armchairengineering.viccurio"
 
     func placeholder(in context: Context) -> WidgetEntry {
         .placeholder
@@ -259,7 +259,7 @@ struct MediumWidgetView: View {
     let entry: WidgetEntry
 
     var body: some View {
-        HStack(spacing: 12) {
+        HStack(alignment: .top, spacing: 12) {
             // Image
             if let imageData = entry.imageData,
                let uiImage = UIImage(data: imageData) {
@@ -292,13 +292,6 @@ struct MediumWidgetView: View {
                     Text(item.summary)
                         .font(.caption)
                         .foregroundStyle(.secondary)
-                        .lineLimit(3)
-
-                    Spacer(minLength: 0)
-
-                    Text("VicCurio")
-                        .font(.caption2)
-                        .foregroundStyle(.tertiary)
                 }
                 .padding(.vertical, 12)
                 .padding(.trailing, 12)
@@ -328,44 +321,38 @@ struct LargeWidgetView: View {
                 Image(uiImage: uiImage)
                     .resizable()
                     .aspectRatio(contentMode: .fill)
-                    .frame(height: 180)
+                    .frame(minHeight: 180)
                     .clipped()
             } else {
                 Rectangle()
                     .fill(Color.gray.opacity(0.3))
-                    .frame(height: 180)
+                    .frame(minHeight: 180)
             }
 
             // Content
             if let item = entry.item {
                 VStack(alignment: .leading, spacing: 8) {
-                    HStack {
-                        if item.isMineralMonday {
+                    if item.isMineralMonday {
+                        HStack {
                             Label("Mineral Monday", systemImage: "diamond.fill")
                                 .font(.caption)
                                 .fontWeight(.bold)
                                 .foregroundStyle(.green)
+                            
+                            Spacer()
                         }
-
-                        Spacer()
-
-                        Text("VicCurio")
-                            .font(.caption)
-                            .foregroundStyle(.tertiary)
                     }
 
                     Text(item.title)
                         .font(.headline)
-                        .lineLimit(2)
+                        .lineLimit(3)
 
                     Text(item.summary)
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
-                        .lineLimit(4)
-
-                    Spacer(minLength: 0)
                 }
                 .padding()
+                .layoutPriority(1)
             } else if let error = entry.errorMessage {
                 Text(error)
                     .font(.subheadline)

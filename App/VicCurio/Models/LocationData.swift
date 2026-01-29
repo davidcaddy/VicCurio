@@ -8,7 +8,7 @@
 import Foundation
 import CoreLocation
 
-struct LocationData: Codable, Equatable {
+struct LocationData: Codable, Hashable {
     // Primary fields (new format)
     let name: String?
     let region: String?

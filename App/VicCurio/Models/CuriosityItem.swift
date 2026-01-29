@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct CuriosityItem: Codable, Identifiable, Equatable {
+struct CuriosityItem: Codable, Identifiable, Hashable {
     let id: String
     let displayDate: String
     let title: String

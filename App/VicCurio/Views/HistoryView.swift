@@ -3,6 +3,7 @@
 //  VicCurio
 //
 //  Browse artifacts from the past 14 days.
+//  Uses NavigationSplitView for adaptive layout on iPad.
 //
 
 import SwiftUI
@@ -17,7 +18,7 @@ struct HistoryView: View {
     @State private var selectedItem: CuriosityItem?
 
     var body: some View {
-        NavigationStack {
+        NavigationSplitView {
             Group {
                 if isLoading {
                     ProgressView("Loading history...")
@@ -29,29 +30,30 @@ struct HistoryView: View {
                         description: Text("Check back after a few days!")
                     )
                 } else {
-                    ScrollView {
-                        LazyVStack(spacing: 12) {
-                            ForEach(recentItems) { item in
-                                HistoryCard(item: item)
-                                    .onTapGesture {
-                                        selectedItem = item
-                                    }
-                            }
-                        }
-                        .padding()
+                    List(recentItems, selection: $selectedItem) { item in
+                        HistoryRow(item: item, modelContext: modelContext)
+                            .tag(item)
                     }
+                    .listStyle(.plain)
                 }
             }
             .navigationTitle("History")
-            .sheet(item: $selectedItem) { item in
-                ItemDetailView(item: item)
-            }
-            .task {
-                await loadHistory()
-            }
             .refreshable {
                 await loadHistory()
             }
+        } detail: {
+            if let item = selectedItem {
+                ItemDetailContent(item: item)
+            } else {
+                ContentUnavailableView(
+                    "Select an Item",
+                    systemImage: "clock",
+                    description: Text("Choose an item from history to view details.")
+                )
+            }
+        }
+        .task {
+            await loadHistory()
         }
     }
 
@@ -66,6 +68,75 @@ struct HistoryView: View {
             // Keep existing items if refresh fails
         }
         isLoading = false
+    }
+}
+
+// MARK: - History Row
+
+struct HistoryRow: View {
+    let item: CuriosityItem
+    let modelContext: ModelContext
+
+    @State private var isFavourite = false
+
+    private var favouritesService: FavouritesService {
+        FavouritesService(modelContext: modelContext)
+    }
+
+    var body: some View {
+        HStack(spacing: 12) {
+            // Thumbnail
+            AsyncImage(url: item.thumbnailUrl) { image in
+                image
+                    .resizable()
+                    .aspectRatio(contentMode: .fill)
+            } placeholder: {
+                Rectangle()
+                    .fill(Color.gray.opacity(0.2))
+            }
+            .frame(width: 60, height: 60)
+            .clipShape(RoundedRectangle(cornerRadius: 8))
+
+            // Content
+            VStack(alignment: .leading, spacing: 4) {
+                if item.isMineralMonday {
+                    MineralMondayBadge(compact: true)
+                }
+
+                Text(item.title)
+                    .font(.subheadline)
+                    .fontWeight(.medium)
+                    .lineLimit(2)
+
+                Text(item.displayDateFormatted)
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+            }
+
+            Spacer(minLength: 0)
+
+            if isFavourite {
+                Image(systemName: "heart.fill")
+                    .font(.caption)
+                    .foregroundStyle(.red)
+            }
+        }
+        .padding(.vertical, 4)
+        .swipeActions(edge: .trailing) {
+            Button {
+                isFavourite.toggle()
+                favouritesService.toggleFavourite(for: item)
+            } label: {
+                Label(
+                    isFavourite ? "Unfavourite" : "Favourite",
+                    systemImage: isFavourite ? "heart.slash" : "heart"
+                )
+            }
+            .tint(isFavourite ? .gray : .red)
+        }
+        .onAppear {
+            isFavourite = favouritesService.isFavourite(item)
+        }
     }
 }
 

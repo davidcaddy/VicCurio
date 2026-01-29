@@ -3,6 +3,7 @@
 //  VicCurio
 //
 //  View saved favourite artifacts.
+//  Uses NavigationSplitView for adaptive layout on iPad.
 //
 
 import SwiftUI
@@ -19,7 +20,7 @@ struct FavouritesView: View {
     @State private var selectedItem: CuriosityItem?
 
     var body: some View {
-        NavigationStack {
+        NavigationSplitView {
             Group {
                 if favouriteItems.isEmpty {
                     ContentUnavailableView(
@@ -28,31 +29,42 @@ struct FavouritesView: View {
                         description: Text("Tap the heart on any artifact to save it here.")
                     )
                 } else {
-                    ScrollView {
-                        LazyVStack(spacing: 12) {
-                            ForEach(favouriteItems) { persisted in
-                                let item = persisted.toCuriosityItem()
-                                FavouriteCard(item: item, favouritedAt: persisted.favouritedAt)
-                                    .onTapGesture {
-                                        selectedItem = item
+                    List(favouriteItems, selection: $selectedItem) { persisted in
+                        let item = persisted.toCuriosityItem()
+                        FavouriteRow(item: item, favouritedAt: persisted.favouritedAt)
+                            .tag(item)
+                            .swipeActions(edge: .trailing, allowsFullSwipe: true) {
+                                Button(role: .destructive) {
+                                    if selectedItem?.id == item.id {
+                                        selectedItem = nil
                                     }
+                                    FavouritesService(modelContext: modelContext).toggleFavourite(for: item)
+                                } label: {
+                                    Label("Unfavourite", systemImage: "heart.slash")
+                                }
                             }
-                        }
-                        .padding()
                     }
+                    .listStyle(.plain)
                 }
             }
             .navigationTitle("Favourites")
-            .sheet(item: $selectedItem) { item in
-                ItemDetailView(item: item)
+        } detail: {
+            if let item = selectedItem {
+                ItemDetailContent(item: item)
+            } else {
+                ContentUnavailableView(
+                    "Select a Favourite",
+                    systemImage: "heart",
+                    description: Text("Choose a favourite to view details.")
+                )
             }
         }
     }
 }
 
-// MARK: - Favourite Card
+// MARK: - Favourite Row
 
-struct FavouriteCard: View {
+struct FavouriteRow: View {
     let item: CuriosityItem
     let favouritedAt: Date?
 
@@ -67,9 +79,8 @@ struct FavouriteCard: View {
                 Rectangle()
                     .fill(Color.gray.opacity(0.2))
             }
-            .frame(width: 80, height: 80)
+            .frame(width: 60, height: 60)
             .clipShape(RoundedRectangle(cornerRadius: 8))
-            .accessibilityLabel(item.title)
 
             // Content
             VStack(alignment: .leading, spacing: 4) {
@@ -89,12 +100,10 @@ struct FavouriteCard: View {
                         .lineLimit(1)
                 }
 
-                Spacer(minLength: 0)
-
                 if let date = favouritedAt {
                     Text("Saved \(date.formatted(date: .abbreviated, time: .omitted))")
                         .font(.caption2)
-                        .foregroundStyle(.secondary)
+                        .foregroundStyle(.tertiary)
                 }
             }
 
@@ -104,10 +113,7 @@ struct FavouriteCard: View {
                 .font(.body)
                 .foregroundStyle(.red)
         }
-        .padding(12)
-        .background(Color(.secondarySystemBackground))
-        .clipShape(RoundedRectangle(cornerRadius: 12))
-        .accessibilityElement(children: .combine)
+        .padding(.vertical, 4)
     }
 }
 

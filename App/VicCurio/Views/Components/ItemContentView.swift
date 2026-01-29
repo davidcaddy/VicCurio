@@ -114,6 +114,7 @@ struct ItemContentView: View {
             }
         }
         .clipShape(RoundedRectangle(cornerRadius: 16))
+        .padding(.horizontal)
         .contentShape(Rectangle())
         .onTapGesture {
             onImageTap?()
