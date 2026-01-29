@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-01-27T13:53:29.639691Z",
+  "generatedAt": "2026-01-29T00:36:45.803755Z",
   "items": [
+    {
+      "id": "items/1256224",
+      "displayDate": "2026-01-29",
+      "title": "Loom - Countermarch Floor Loom, Germany, circa 1945",
+      "summary": "Countermarch floor loom made for Anna Apinis by fellow survivors of World War II, in Memmingen, a displaced persons camp in Germany with wood scavenged from bombed-out ruins. It was designed by Anna's husband Ervins. Anna used the loom to weave traditional Latvian designs using threads gathered by unraveling old scraps of fabric. Anna brought the loom with her to Australia and continued to weave Latvian designs on it.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1256224.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1256224-thumb.webp",
+      "aspectRatio": 0.825,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1256224",
+      "location": {
+        "name": "Memmingen",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1202051",
       "displayDate": "2026-01-28",
