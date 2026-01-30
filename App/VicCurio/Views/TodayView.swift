@@ -10,6 +10,7 @@ import SwiftData
 
 struct TodayView: View {
     @Environment(\.modelContext) private var modelContext
+    @Environment(\.scenePhase) private var scenePhase
     private var feedService: FeedService { FeedService.shared }
 
     @State private var todayItem: CuriosityItem?
@@ -17,6 +18,7 @@ struct TodayView: View {
     @State private var errorMessage: String?
     @State private var showingWebView = false
     @State private var isFavourite = false
+    @State private var lastLoadedItemId: String?
 
     private var favouritesService: FavouritesService {
         FavouritesService(modelContext: modelContext)
@@ -41,6 +43,13 @@ struct TodayView: View {
             }
             .task {
                 await loadTodaysItem()
+            }
+            .onChange(of: scenePhase) { oldPhase, newPhase in
+                if newPhase == .active && oldPhase == .background {
+                    Task {
+                        await loadTodaysItem(forceRefresh: true)
+                    }
+                }
             }
             .sheet(isPresented: $showingWebView) {
                 if let item = todayItem {

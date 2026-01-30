@@ -82,14 +82,22 @@ struct Provider: TimelineProvider {
             let (data, _) = try await URLSession.shared.data(from: feedURL)
             let feed = try JSONDecoder().decode(WidgetFeed.self, from: data)
 
-            // Find today's item
+            // Find today's item, or fall back to most recent past item
             let today = formatDate(Date())
-            guard let item = feed.items.first(where: { $0.displayDate == today }) else {
+            let item: WidgetFeedItem
+            if let todayItem = feed.items.first(where: { $0.displayDate == today }) {
+                item = todayItem
+            } else if let mostRecent = feed.items
+                .filter({ $0.displayDate <= today })
+                .sorted(by: { $0.displayDate > $1.displayDate })
+                .first {
+                item = mostRecent
+            } else {
                 return WidgetEntry(
                     date: Date(),
                     item: nil,
                     imageData: nil,
-                    errorMessage: "No item scheduled for today"
+                    errorMessage: "No items available"
                 )
             }
 
