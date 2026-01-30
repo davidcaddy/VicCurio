@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-01-29T00:36:45.803755Z",
+  "generatedAt": "2026-01-30T00:47:32.132977Z",
   "items": [
+    {
+      "id": "items/54006",
+      "displayDate": "2026-01-30",
+      "title": "Coin - Shilling, Charles I, Great Britain, 1639-1640",
+      "summary": "Silver coin; Denomination: Shilling Tower Mint, London Charles I (1625-1649) A shilling is a 12 pence coin",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-54006.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-54006-thumb.webp",
+      "aspectRatio": 1.0,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/54006",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1256224",
       "displayDate": "2026-01-29",
