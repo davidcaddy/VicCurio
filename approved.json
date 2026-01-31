@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-01-30T00:47:32.132977Z",
+  "generatedAt": "2026-01-31T00:45:30.047742Z",
   "items": [
+    {
+      "id": "items/248962",
+      "displayDate": "2026-01-31",
+      "title": "Sugar Bowl - Tea Set, Keele Steet Pottery Co. Ltd, circa 1946",
+      "summary": "Cottage style sugar bowl manufactured by Keele St. Pottery Co.Ltd, design number 845007, registered in 1945. It was used in Footscray, Victoria, Australia, circa 1946-1992. ; the sugar bowl and milk jug were made by Keele Street Pottery Co. Ltd, design style 845007, registered in 1945.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-248962.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-248962-thumb.webp",
+      "aspectRatio": 1.003,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/248962",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/54006",
       "displayDate": "2026-01-30",
