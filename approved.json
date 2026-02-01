@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-01-31T00:45:30.047742Z",
+  "generatedAt": "2026-02-01T00:56:50.664715Z",
   "items": [
+    {
+      "id": "items/246929",
+      "displayDate": "2026-02-01",
+      "title": "Leaflets - Matmaking Machines Specifications & Instructions, circa 1950s-1980s",
+      "summary": "Folder of documents containing guidelines for the installation and service of the Thorvald Clasen trimming machine and sharpener, circa 1950s-1980s. Some are from the manufacturer and others are from previous owners of the machines. These machines were used at the matmaking workshop at the Royal Victorian Institute for the Blind from 1986 until it closed down in 1992. The Trimming machine was previously used to make mats at Pentridge Prison.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-246929.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-246929-thumb.webp",
+      "aspectRatio": 1.027,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/246929",
+      "location": {
+        "name": "Hamburg",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/248962",
       "displayDate": "2026-01-31",
