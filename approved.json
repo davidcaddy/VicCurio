@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-01T00:56:50.664715Z",
+  "generatedAt": "2026-02-02T00:50:23.698708Z",
   "items": [
+    {
+      "id": "items/385562",
+      "displayDate": "2026-02-02",
+      "title": "Apple Model - Royal Russet, Burnley, 1874",
+      "summary": "This wax model is based on a specimen grown by the Horticultural Society of Victoria at their Burnley gardens and the model presented to the museum by the National Agricultural Society in 1874 after the specimen was exhibited at the National Agricultural Society's Show, 3-5 April 1873. The model was made in the museum by Thomas McMillan in 1873 for the National Agricultural Society. See also Reg Item 013571 and 013572. Synonyms: Leather Coat, Reinette de Canada Grise, Reinette de Canada Platte, Rousette Royale. This apple is a cooking variety and is harvested in autumn-winter.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-385562.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-385562-thumb.webp",
+      "aspectRatio": 1.319,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/385562",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/246929",
       "displayDate": "2026-02-01",
