@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-02T01:21:08.254865Z",
+  "generatedAt": "2026-02-02T23:29:37.312562Z",
   "items": [
+    {
+      "id": "items/1617471",
+      "displayDate": "2026-02-03",
+      "title": "Water Jug - Whiteware, Red, Transfer-printed, England, Staffordshire,1842-1862 (Fragment)",
+      "summary": "This ceramic water pitcher has been reconstructed from a group of fragments that were excavated at one of the digs on the Commonwealth Block between 1988 and 2003. The pattern is known as 'Panama'. It is one of a pair. Uncovering past food practices. Of all the archaeological material uncovered in the Little Lon excavations, the remnants of eating and drinking are the most numerous. Broken plates, bowls, cups and cutlery were thrown into rubbish piles with smashed jars that once held jam and pickles, and jugs that held water or cordial. Shells from oysters, abalone and coconuts were tossed in with bones from mutton, beef, rabbit and pork. Pips and seeds from fruit and vegetables were also added to the piles. These objects offer clues to the food consumed by residents of Little Lon, and are important in the rediscovery of a people, place and time long vanished.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1617471.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1617471-thumb.webp",
+      "aspectRatio": 0.744,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1617471",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/385562",
       "displayDate": "2026-02-02",
