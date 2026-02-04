@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-02T23:29:37.312562Z",
+  "generatedAt": "2026-02-04T00:46:03.234458Z",
   "items": [
+    {
+      "id": "items/791344",
+      "displayDate": "2026-02-04",
+      "title": "Negative - Victoria, by Bill Boyd, circa 1920s",
+      "summary": "Black and white photographic negative by the photographer William (Bill) Boyd. The Bill Boyd Photographic Collection consists of 446 negatives on film and 56 photographs on paper depicting farming activities, family and the domestic life of people who settled the challenging wheat frontier of the Mallee, mainly in and around the towns of Nandaly & Sea Lake. The images were captured to highlight the vanishing pioneer atmosphere and to record agriculture techniques used during the 1920s. For detailed description of Boyd's life and work, see \"Having a Go - Bill Boyd's Mallee\" by Weston Bate, published in 1988. Most of the photographs were taken between 1920 & 1928. See separate records for detailed description of each negative. Descriptive data has been transcribed from interview with Bill Boyd in 1988.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-791344.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-791344-thumb.webp",
+      "aspectRatio": 1.628,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/791344",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1617471",
       "displayDate": "2026-02-03",
