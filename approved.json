@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-04T00:46:03.234458Z",
+  "generatedAt": "2026-02-04T22:30:36.557260Z",
   "items": [
+    {
+      "id": "specimens/2629618",
+      "displayDate": "2026-02-05",
+      "title": "Prosopocoilus Hope, 1845",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2629618.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2629618-thumb.webp",
+      "aspectRatio": 0.75,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/2629618",
+      "location": {
+        "name": "Cameron Highlands",
+        "showOnMap": false
+      },
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/791344",
       "displayDate": "2026-02-04",
