@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-06T00:46:54.898211Z",
+  "generatedAt": "2026-02-06T22:12:53.877173Z",
   "items": [
+    {
+      "id": "items/742766",
+      "displayDate": "2026-02-07",
+      "title": "Photograph - H.V. McKay Massey Harris, 'Raisall' Crop Lifter Attached to AL Harvester, Sunshine, Victoria, 1934",
+      "summary": "'Raisall ' crop lifter fingers attached to the front of an 8 ft 'A.L.' harvester. Originally known as a 'false comb', the 'crop lifter attachment' for Sunshine header harvesters was designed by Headlie Shipard Taylor and first introduced by H.V. McKay in 1917 to assist with the harvesting of storm damaged and tangled crops. The attachment gained prominence during the harvest of 1920 when extensive storms throughout much of New South Wales left many crops flattened and seemingly unrecoverable, Crop lifters were offered as an attachment to Sunshine harvesters, with the 'Raisall' brandname applied to the product at a later date. This image appears to be a masked reprinted version of MM 022485, and is similar to both MM 026247 and MM 026255.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-742766.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-742766-thumb.webp",
+      "aspectRatio": 1.319,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/742766",
+      "location": {
+        "name": "Sunshine",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/2644698",
       "displayDate": "2026-02-06",
