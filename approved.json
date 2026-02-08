@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-06T22:15:32.871178Z",
+  "generatedAt": "2026-02-08T01:01:49.456987Z",
   "items": [
+    {
+      "id": "items/1714120",
+      "displayDate": "2026-02-08",
+      "title": "Painting - Horsedrawn Vehicle, Nursery, Dolls' House, 'Pendle Hall', 1940s",
+      "summary": "Painting from Room 2 - Nursery, Basement, Left Section, Pendle Hall. From rear wall between window and door. It was created by Felicity Clemons as part of a 40 project to create a grand fully-furnished Georgian style country dolls' house. The project began in the 1940s when Felicity's daughter, Antonia, was given a three-room dolls' house by her grandmother. Mrs Clemons was not happy with its scale or authenticity and so began a rebuilding project which resulted in a four storey grand house, now known as Pendle Hall. Although some items were purchased during shopping trips to Melbourne, the majority of furnishings were constructed by Felicity's own hands, using numerous reference books and magazines.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1714120.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1714120-thumb.webp",
+      "aspectRatio": 0.837,
+      "credit": "Museums Victoria",
+      "licence": "All Rights Reserved",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1714120",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/742766",
       "displayDate": "2026-02-07",
