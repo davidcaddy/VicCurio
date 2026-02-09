@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-08T01:01:49.456987Z",
+  "generatedAt": "2026-02-09T00:51:25.815121Z",
   "items": [
+    {
+      "id": "specimens/2270",
+      "displayDate": "2026-02-09",
+      "title": "Topaz",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2270.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2270-thumb.webp",
+      "aspectRatio": 1.398,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/2270",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/1714120",
       "displayDate": "2026-02-08",
