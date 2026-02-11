@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-10T00:56:50.441094Z",
+  "generatedAt": "2026-02-11T00:54:51.512888Z",
   "items": [
+    {
+      "id": "items/83814",
+      "displayDate": "2026-02-11",
+      "title": "Token - Halfpenny, Promotional, Collector Strike, Kangaroo Office, Melbourne, Victoria, Australia",
+      "summary": "Copper Halfpenny Promotional Token. Issued for collectors in the Twentieth Century, it is a uniface squeeze of obverse die of the Kangaroo Office's Promotional Halfpenny token, used to advertise their 1/4 ounce, 1/2 ounce, 1 ounce and 2 ounce gold pieces. W. J. Taylor and his business partners established the Kangaroo Office to take advantage of the explosive economic growth in Australia following the discovery of gold in 1851. They hoped to buy gold at greatly reduced prices from the gold fields and then release it at full value in the form of quarter-ounce, half-ounce, one ounce and two ounce gold coins. However due to the time required to travel between London and Melbourne, once the Kangaroo Office was ready for business in 1854, an increase in the number of British sovereigns, had seen the price of gold rise, and the potential profits for the Kangaroo Office sharply decline. Not deterred, in late 1954 Taylor prepare dies for a series of pattern copper tokens that it was hoped could be produced in Melbourne by the Kangaroo Office for circulation within Australia. It appears that this did not succeed, and in 1855 Taylor began to create shilling and sixpence patterns in silver. However the Kangaroo Office again failed to obtain authority to strike and circulate these silver tokens and in 1857 the Kangaroo Office closed.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-83814.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-83814-thumb.webp",
+      "aspectRatio": 0.779,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/83814",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/82236",
       "displayDate": "2026-02-10",
