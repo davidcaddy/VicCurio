@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-11T00:54:51.512888Z",
+  "generatedAt": "2026-02-12T00:49:37.551822Z",
   "items": [
+    {
+      "id": "items/255409",
+      "displayDate": "2026-02-12",
+      "title": "Postcard - Royal Exhibition Building & Views of Melbourne, Scancolor Australia, Melbourne, circa 1992",
+      "summary": "This is a colour postcard of five views of Melbourne, including one the Hochgurtel Fountain & southern facade of the Royal Exhibition Building, circa 1992. The other four views include Bourke Street Mall, a view from Princes Bridge, a tram passing the Shrine of Remembrance and the Walker Fountain in Alexandra Park. The postcard, which is unused, was printed as part of the Scancolour Australian Range and purchased at Tullamarine Airport, Melbourne in 1992.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-255409.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-255409-thumb.webp",
+      "aspectRatio": 1.442,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/255409",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/83814",
       "displayDate": "2026-02-11",
