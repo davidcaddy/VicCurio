@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-13T00:52:25.368964Z",
+  "generatedAt": "2026-02-13T20:56:30.526063Z",
   "items": [
+    {
+      "id": "items/2102789",
+      "displayDate": "2026-02-14",
+      "title": "Photograph - 'A Scene on the Road Near Ypres', World War I, Ypres, Belgium, 14 Sep 1917",
+      "summary": "Photograph of soldiers marching on a road near Ypres on 14 September 1917, during World War I. The photograph was taken by Frank Hurley. The Australian War Memorial holds the same photograph - E00700 and P09114.023. It is titled 'A Scene on the Menin Road'.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2102789.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2102789-thumb.webp",
+      "aspectRatio": 1.376,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2102789",
+      "location": {
+        "name": "Ypres",
+        "region": "West Flanders",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/277373",
       "displayDate": "2026-02-13",
