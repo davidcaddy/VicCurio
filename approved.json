@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-13T21:00:09.605264Z",
+  "generatedAt": "2026-02-13T21:02:18.809110Z",
   "items": [
     {
       "id": "items/2102789",
@@ -17,6 +17,27 @@
       "location": {
         "name": "Ypres",
         "region": "West Flanders",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
+    {
+      "id": "items/770437",
+      "displayDate": "2026-02-14",
+      "title": "Negative - Koornalla, Victoria, circa 1933",
+      "summary": "A man and woman taking cream to the Traralgon Butter Factory in a Model T Ford car.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-770437.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-770437-thumb.webp",
+      "aspectRatio": 1.809,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/770437",
+      "location": {
+        "name": "Koornalla",
         "showOnMap": false
       },
       "tags": [
