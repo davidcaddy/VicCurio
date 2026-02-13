@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-12T00:49:37.551822Z",
+  "generatedAt": "2026-02-13T00:52:25.368964Z",
   "items": [
+    {
+      "id": "items/277373",
+      "displayDate": "2026-02-13",
+      "title": "Postcard - Opening of First Federal Parliament, Royal Exhibition Building, Nucolorvue Productions, Melbourne, 1990",
+      "summary": "This is a sepia coloured postcard featuring a reproduction of a painting by Charles Nuttall of the opening of the first Federal Parliament of Australia at the Exhibition Building, made in 1990. The postcard, which is unused, was made by Nucolorvue Productions. The Exhibition Building was built for the 1880 Melbourne International Exhibition, which opened to visitors on 1 October 1880. On 9 May 1901, it hosted the opening of the First Commonwealth Parliament of Australia.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-277373.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-277373-thumb.webp",
+      "aspectRatio": 1.537,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/277373",
+      "location": {
+        "name": "Melbourne",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/255409",
       "displayDate": "2026-02-12",
