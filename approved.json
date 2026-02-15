@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-13T21:02:18.809110Z",
+  "generatedAt": "2026-02-15T00:53:21.518584Z",
   "items": [
+    {
+      "id": "items/1460379",
+      "displayDate": "2026-02-15",
+      "title": "Photograph - Sunshine, Pickup Baler, 1954",
+      "summary": "Photograph of Sunshine pickup baler. This image is part of a collection of photographs, moving film, artefacts, documents and trade literature relating to Massey Ferguson (Aust.) Ltd, known as the H.V. McKay Sunshine Collection.The Australian operations of this company were originally founded as Hugh V. McKay in the 1890s. In 1930 it merged with Massey Harris's Australian operations to become H.V. McKay Massey Harris Pty Ltd. In 1955, this company was in turn absorbed into the Massey-Ferguson global entity becoming Massey Ferguson (Aust.) Limited.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1460379.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1460379-thumb.webp",
+      "aspectRatio": 1.369,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1460379",
+      "location": {
+        "name": "Sunshine",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/2102789",
       "displayDate": "2026-02-14",
