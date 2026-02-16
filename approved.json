@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-15T00:53:21.518584Z",
+  "generatedAt": "2026-02-16T00:50:39.368334Z",
   "items": [
+    {
+      "id": "specimens/2168136",
+      "displayDate": "2026-02-16",
+      "title": "Quartz",
+      "summary": "Quartz crystals of all shapes, sizes and colours can be found in Victoria. However, the largest crystals, which may reach nearly a metre long, come from a handful of localities in the Strathbogie Ranges, between Euroa and Bonnie Doon. The ranges consist mainly of granite, which in a few places contains pipe-like masses, known as pegmatite, where crystals have grown exceptionally large. The quartz crystals are typically smoky brown, and may occur with flakes of mica. This group of smoky quartz crystals was recovered from a pegmatite on which an old shaft had been dug for gold. When two intrepid collectors decided to open up the shaft in about 2010, they exposed dozens of large smoky quartz crystals, which they have been extracting for sale to mineral collectors. The Museum has purchased several of these crystals for its collection. Quartz is perhaps the most common mineral on the earth's surface. It is made of silicon and oxygen in a 3D structure where each oxygen atom is shared between two silicon atoms. Despite its chemical simplicity quartz occurs in an astonishing variety of shapes and colours, such as brown, yellow and purple. Naturally colourless and transparent, other colours come from traces of chemical impurities and irradiation. Some forms, including amethyst, citrine, carnelian, agate, tiger's eye, onyx and jasper are prized as gemstones. Quartz isn't just valued for its beauty; it's physical and chemical properties make it widely useful in industrial settings. Its piezoelectric properties make it useful in timekeeping devices from watches to GPS equipment. For these sorts of precise uses, single crystals grown in laboratories are required.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2168136.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2168136-thumb.webp",
+      "aspectRatio": 0.75,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/2168136",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/1460379",
       "displayDate": "2026-02-15",
