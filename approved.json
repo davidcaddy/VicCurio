@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-16T00:50:39.368334Z",
+  "generatedAt": "2026-02-17T00:49:41.811714Z",
   "items": [
+    {
+      "id": "items/768561",
+      "displayDate": "2026-02-17",
+      "title": "Negative - Crowds Watching 'Win the War Day' Procession, Melbourne, World War I, 24 Feb 1917",
+      "summary": "Alternative Name: Fundraising March, Win-the-War Day, Recruitment Parade Photograph depicting a 'Win the War Day' procession, held in Melbourne on 24 February 1917. The procession moved from Princes Bridge, along Swanston Street, up Bourke Street and along Spring Street to the Treasury Gardens. Organised by the State Recruiting Committee, 'The sole object of the demonstration is to fix the attention of the people on the fact that an urgent demand for recruits exists, in the hope that the eligible men may be induced to enlist immediately. Australia promised to provide 16,500 men a month, but so far the enlistments have reached only about 5000, while there are thousands of men fit and capable.' (The Age, 24 February 1917, page 11).",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-768561.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-768561-thumb.webp",
+      "aspectRatio": 1.426,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/768561",
+      "location": {
+        "name": "Melbourne",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/2168136",
       "displayDate": "2026-02-16",
