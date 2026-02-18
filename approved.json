@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-17T00:49:41.811714Z",
+  "generatedAt": "2026-02-18T00:50:15.539907Z",
   "items": [
+    {
+      "id": "specimens/2635364",
+      "displayDate": "2026-02-18",
+      "title": "Papilio thoas thoas Linnaeus, 1771",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2635364.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2635364-thumb.webp",
+      "aspectRatio": 0.75,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/2635364",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/768561",
       "displayDate": "2026-02-17",
