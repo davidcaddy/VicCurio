@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-18T00:50:15.539907Z",
+  "generatedAt": "2026-02-19T00:50:47.677301Z",
   "items": [
+    {
+      "id": "items/1485616",
+      "displayDate": "2026-02-19",
+      "title": "Sign - The Proprietor of this Establishment is British, circa 1940s",
+      "summary": "Printed paper sign 'The Proprietor of this Establishment is British'. The sign was made by Edward V. Brown, Printer and rubber stamp manufacturer, 97 Lonsdale St, Melbourne, circa 1936 - 47. Brown began his printing business in 1901 at Eastern Market, 109 Bourke St and moved to a number of different addresses on Exhibition St and Bourke street before his final location at 97 Lonsdale St. His business disappears from the directories after 1947. Signs such as these were used during World War II to diffuse ill feeling and to remove suspicion that a shop owner who appeared to be of 'enemy alien' origin such as Italian or German was actually a British citizen. These signs also drew business away from other businesses perceived to be run by people of 'enemy alien' background. The sign came from the deceased estate collection of the noted Melbourne ephemera collector and hoarder, Richard Berry, who bought the archives and residual stock of printers in Melbourne and suburbs.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1485616.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1485616-thumb.webp",
+      "aspectRatio": 1.531,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1485616",
+      "location": {
+        "name": "Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/2635364",
       "displayDate": "2026-02-18",
