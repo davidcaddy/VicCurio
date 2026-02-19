@@ -204,6 +204,8 @@ struct VicCurioWidgetEntryView: View {
             MediumWidgetView(entry: entry)
         case .systemLarge:
             LargeWidgetView(entry: entry)
+        case .systemExtraLarge:
+            ExtraLargeWidgetView(entry: entry)
         default:
             SmallWidgetView(entry: entry)
         }
@@ -374,6 +376,65 @@ struct LargeWidgetView: View {
     }
 }
 
+// MARK: - Extra Large Widget (iPad only)
+
+struct ExtraLargeWidgetView: View {
+    let entry: WidgetEntry
+
+    var body: some View {
+        HStack(spacing: 0) {
+            // Left: Large image
+            if let imageData = entry.imageData,
+               let uiImage = UIImage(data: imageData) {
+                Image(uiImage: uiImage)
+                    .resizable()
+                    .aspectRatio(contentMode: .fill)
+                    .frame(maxWidth: .infinity)
+                    .clipped()
+            } else {
+                Rectangle()
+                    .fill(Color.gray.opacity(0.3))
+                    .frame(maxWidth: .infinity)
+            }
+
+            // Right: Content
+            if let item = entry.item {
+                VStack(alignment: .leading, spacing: 10) {
+                    if item.isMineralMonday {
+                        Label("Mineral Monday", systemImage: "diamond.fill")
+                            .font(.subheadline)
+                            .fontWeight(.bold)
+                            .foregroundStyle(.green)
+                    }
+
+                    Text(item.title)
+                        .font(.title2)
+                        .fontWeight(.bold)
+                        .lineLimit(3)
+
+                    Text(item.summary)
+                        .font(.body)
+                        .foregroundStyle(.secondary)
+
+                    Spacer(minLength: 0)
+
+                    Text("Museums Victoria")
+                        .font(.caption)
+                        .foregroundStyle(.tertiary)
+                }
+                .padding(20)
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+            } else if let error = entry.errorMessage {
+                Text(error)
+                    .font(.headline)
+                    .foregroundStyle(.secondary)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+            }
+        }
+        .widgetURL(entry.item?.deepLinkURL)
+    }
+}
+
 // MARK: - Widget Configuration
 
 struct VicCurioWidget: Widget {
@@ -386,7 +447,7 @@ struct VicCurioWidget: Widget {
         }
         .configurationDisplayName("VicCurio")
         .description("Today's curiosity from Museums Victoria")
-        .supportedFamilies([.systemSmall, .systemMedium, .systemLarge])
+        .supportedFamilies([.systemSmall, .systemMedium, .systemLarge, .systemExtraLarge])
         .contentMarginsDisabled()
     }
 }
@@ -434,6 +495,22 @@ struct VicCurioWidget: Widget {
             id: "preview",
             title: "Gold Specimen from Ballarat",
             summary: "This remarkable gold nugget was discovered during the Victorian gold rush, showcasing the incredible mineral wealth of the region. Found by prospectors in the Ballarat goldfields.",
+            isMineralMonday: true
+        ),
+        imageData: nil,
+        errorMessage: nil
+    )
+}
+
+#Preview("Extra Large", as: .systemExtraLarge) {
+    VicCurioWidget()
+} timeline: {
+    WidgetEntry(
+        date: .now,
+        item: WidgetItem(
+            id: "preview",
+            title: "Gold Specimen from Ballarat",
+            summary: "This remarkable gold nugget was discovered during the Victorian gold rush, showcasing the incredible mineral wealth of the region. Found by prospectors in the Ballarat goldfields, this piece is a testament to the geological riches that drew thousands to Victoria in the 1850s.",
             isMineralMonday: true
         ),
         imageData: nil,

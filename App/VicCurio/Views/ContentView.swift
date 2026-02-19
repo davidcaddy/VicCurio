@@ -3,6 +3,7 @@
 //  VicCurio
 //
 //  Main app view with tab navigation.
+//  Uses sidebarAdaptable style for iPad sidebar / iPhone tab bar.
 //
 
 import SwiftUI

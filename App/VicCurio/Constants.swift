@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum Constants {
+nonisolated enum Constants {
     /// The URL for the approved feed JSON on GitHub Pages.
     /// Update this with your actual GitHub Pages URL after deployment.
     static let feedURL = URL(string: "https://davidcaddy.github.io/VicCurio/approved.json")!

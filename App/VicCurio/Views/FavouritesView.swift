@@ -68,6 +68,12 @@ struct FavouriteRow: View {
     let item: CuriosityItem
     let favouritedAt: Date?
 
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
+
+    private var thumbnailSize: CGFloat {
+        horizontalSizeClass == .regular ? 80 : 60
+    }
+
     var body: some View {
         HStack(spacing: 12) {
             // Thumbnail
@@ -79,8 +85,8 @@ struct FavouriteRow: View {
                 Rectangle()
                     .fill(Color.gray.opacity(0.2))
             }
-            .frame(width: 60, height: 60)
-            .clipShape(RoundedRectangle(cornerRadius: 8))
+            .frame(width: thumbnailSize, height: thumbnailSize)
+            .clipShape(RoundedRectangle(cornerRadius: 10))
 
             // Content
             VStack(alignment: .leading, spacing: 4) {

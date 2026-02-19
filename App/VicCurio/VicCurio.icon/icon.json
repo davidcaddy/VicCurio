@@ -1,0 +1,58 @@
+{
+  "fill" : "automatic",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "solid" : "srgb:0.00000,0.85490,0.76471,1.00000"
+          },
+          "image-name" : "VicCurioIconLayer1 4.png",
+          "name" : "VicCurioIconLayer1",
+          "opacity" : 0.5
+        },
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "solid" : "srgb:0.47563,0.47565,0.47564,1.00000"
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "solid" : "srgb:0.66422,0.66424,0.66423,1.00000"
+              }
+            }
+          ],
+          "image-name" : "VicCurioIconLayer3 3.png",
+          "name" : "VicCurioIconLayer3"
+        },
+        {
+          "blend-mode" : "lighten",
+          "fill" : {
+            "solid" : "srgb:0.57046,0.57047,0.57046,1.00000"
+          },
+          "glass" : true,
+          "image-name" : "VicCurioIconLayer4 3.png",
+          "name" : "VicCurioIconLayer4"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

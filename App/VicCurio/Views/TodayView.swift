@@ -3,6 +3,7 @@
 //  VicCurio
 //
 //  Displays today's museum artifact.
+//  Adaptive layout: magazine-style on iPad, vertical scroll on iPhone.
 //
 
 import SwiftUI
@@ -11,6 +12,7 @@ import SwiftData
 struct TodayView: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(\.scenePhase) private var scenePhase
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     private var feedService: FeedService { FeedService.shared }
 
     @State private var todayItem: CuriosityItem?
@@ -19,6 +21,10 @@ struct TodayView: View {
     @State private var showingWebView = false
     @State private var isFavourite = false
     @State private var lastLoadedItemId: String?
+
+    private var isWideLayout: Bool {
+        horizontalSizeClass == .regular
+    }
 
     private var favouritesService: FavouritesService {
         FavouritesService(modelContext: modelContext)
@@ -73,11 +79,11 @@ struct TodayView: View {
 
     private func itemContent(_ item: CuriosityItem) -> some View {
         VStack(alignment: .leading, spacing: 0) {
-            // Shared content (no map on today view, keeps it focused)
             ItemContentView(
                 item: item,
                 showDate: false,
                 showMap: false,
+                isWideLayout: isWideLayout,
                 onImageTap: { showingWebView = true }
             )
 
@@ -110,6 +116,8 @@ struct TodayView: View {
             .padding(.horizontal)
             .padding(.bottom)
         }
+        .frame(maxWidth: isWideLayout ? 900 : .infinity)
+        .frame(maxWidth: .infinity)
     }
 
     private func errorView(_ message: String) -> some View {

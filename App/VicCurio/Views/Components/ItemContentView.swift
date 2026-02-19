@@ -4,6 +4,7 @@
 //
 //  Shared content view for displaying a museum artifact.
 //  Used by both TodayView and ItemDetailView.
+//  Supports wide (side-by-side) layout for iPad.
 //
 
 import SwiftUI
@@ -13,51 +14,19 @@ struct ItemContentView: View {
     let item: CuriosityItem
     var showDate: Bool = false
     var showMap: Bool = true
+    var isWideLayout: Bool = false
     var onImageTap: (() -> Void)? = nil
 
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
-            // Hero image
-            heroImage
+            if isWideLayout {
+                wideContent
+            } else {
+                compactContent
+            }
 
-            // Content
+            // Shared bottom section (location, tags, attribution)
             VStack(alignment: .leading, spacing: 12) {
-                // Mineral Monday badge
-                if item.isMineralMonday {
-                    MineralMondayBadge()
-                }
-
-                // Date (optional)
-                if showDate {
-                    Text(item.displayDateFormatted)
-                        .font(.subheadline)
-                        .foregroundStyle(.secondary)
-                }
-
-                // Title
-                Text(item.title)
-                    .font(.title2)
-                    .fontWeight(.bold)
-
-                // Summary
-                Text(item.summary)
-                    .font(.body)
-                    .foregroundStyle(.secondary)
-
-                // Fun fact
-                if let funFact = item.funFact, !funFact.isEmpty {
-                    HStack(alignment: .top, spacing: 8) {
-                        Image(systemName: "lightbulb.fill")
-                            .foregroundStyle(.yellow)
-                        Text(funFact)
-                            .font(.callout)
-                            .italic()
-                    }
-                    .padding()
-                    .background(Color.yellow.opacity(0.1))
-                    .clipShape(RoundedRectangle(cornerRadius: 8))
-                }
-
                 // Location
                 if let location = item.location {
                     locationSection(location)
@@ -84,6 +53,94 @@ struct ItemContentView: View {
             .padding(.horizontal)
         }
         .padding(.vertical)
+    }
+
+    // MARK: - Wide Layout (iPad)
+
+    private var wideContent: some View {
+        HStack(alignment: .top, spacing: 24) {
+            // Left column: Hero image
+            heroImage
+                .frame(maxWidth: .infinity)
+
+            // Right column: Text content
+            VStack(alignment: .leading, spacing: 12) {
+                if item.isMineralMonday {
+                    MineralMondayBadge()
+                }
+
+                if showDate {
+                    Text(item.displayDateFormatted)
+                        .font(.subheadline)
+                        .foregroundStyle(.secondary)
+                }
+
+                Text(item.title)
+                    .font(.title2)
+                    .fontWeight(.bold)
+
+                Text(item.summary)
+                    .font(.body)
+                    .foregroundStyle(.secondary)
+
+                if let funFact = item.funFact, !funFact.isEmpty {
+                    HStack(alignment: .top, spacing: 8) {
+                        Image(systemName: "lightbulb.fill")
+                            .foregroundStyle(.yellow)
+                        Text(funFact)
+                            .font(.callout)
+                            .italic()
+                    }
+                    .padding()
+                    .background(Color.yellow.opacity(0.1))
+                    .clipShape(RoundedRectangle(cornerRadius: 8))
+                }
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .padding(.trailing)
+        }
+    }
+
+    // MARK: - Compact Layout (iPhone)
+
+    private var compactContent: some View {
+        VStack(alignment: .leading, spacing: 16) {
+            heroImage
+
+            VStack(alignment: .leading, spacing: 12) {
+                if item.isMineralMonday {
+                    MineralMondayBadge()
+                }
+
+                if showDate {
+                    Text(item.displayDateFormatted)
+                        .font(.subheadline)
+                        .foregroundStyle(.secondary)
+                }
+
+                Text(item.title)
+                    .font(.title2)
+                    .fontWeight(.bold)
+
+                Text(item.summary)
+                    .font(.body)
+                    .foregroundStyle(.secondary)
+
+                if let funFact = item.funFact, !funFact.isEmpty {
+                    HStack(alignment: .top, spacing: 8) {
+                        Image(systemName: "lightbulb.fill")
+                            .foregroundStyle(.yellow)
+                        Text(funFact)
+                            .font(.callout)
+                            .italic()
+                    }
+                    .padding()
+                    .background(Color.yellow.opacity(0.1))
+                    .clipShape(RoundedRectangle(cornerRadius: 8))
+                }
+            }
+            .padding(.horizontal)
+        }
     }
 
     // MARK: - Subviews

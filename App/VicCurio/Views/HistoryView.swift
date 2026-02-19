@@ -77,7 +77,12 @@ struct HistoryRow: View {
     let item: CuriosityItem
     let modelContext: ModelContext
 
+    @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @State private var isFavourite = false
+
+    private var thumbnailSize: CGFloat {
+        horizontalSizeClass == .regular ? 80 : 60
+    }
 
     private var favouritesService: FavouritesService {
         FavouritesService(modelContext: modelContext)
@@ -94,8 +99,8 @@ struct HistoryRow: View {
                 Rectangle()
                     .fill(Color.gray.opacity(0.2))
             }
-            .frame(width: 60, height: 60)
-            .clipShape(RoundedRectangle(cornerRadius: 8))
+            .frame(width: thumbnailSize, height: thumbnailSize)
+            .clipShape(RoundedRectangle(cornerRadius: 10))
 
             // Content
             VStack(alignment: .leading, spacing: 4) {

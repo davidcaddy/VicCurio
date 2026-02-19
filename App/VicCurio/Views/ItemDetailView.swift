@@ -63,6 +63,8 @@ struct ItemDetailContent: View {
                 .padding(.horizontal)
                 .padding(.bottom)
             }
+            .frame(maxWidth: 700)
+            .frame(maxWidth: .infinity)
         }
         .navigationTitle("Details")
         .navigationBarTitleDisplayMode(.inline)
