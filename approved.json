@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-19T00:50:47.677301Z",
+  "generatedAt": "2026-02-20T00:48:50.804133Z",
   "items": [
+    {
+      "id": "specimens/1256655",
+      "displayDate": "2026-02-20",
+      "title": "Castiarina cincta (Blackburn, 1890)",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1256655.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1256655-thumb.webp",
+      "aspectRatio": 1.329,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/1256655",
+      "location": {
+        "name": "34km SW Wellstead",
+        "showOnMap": false
+      },
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1485616",
       "displayDate": "2026-02-19",
