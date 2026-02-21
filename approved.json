@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-20T00:48:50.804133Z",
+  "generatedAt": "2026-02-21T00:47:04.093790Z",
   "items": [
+    {
+      "id": "items/765598",
+      "displayDate": "2026-02-21",
+      "title": "Negative - Roberts Brothers Specialty Grocers Decorated for Centenary Celebrations, Ballarat, Victoria, 1938",
+      "summary": "Roberts Brothers, Specialty Grocers, decorated for Ballarat centenary celebrations?.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-765598.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-765598-thumb.webp",
+      "aspectRatio": 1.884,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/765598",
+      "location": {
+        "name": "Ballarat",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/1256655",
       "displayDate": "2026-02-20",
