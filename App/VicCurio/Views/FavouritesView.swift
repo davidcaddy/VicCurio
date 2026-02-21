@@ -51,6 +51,7 @@ struct FavouritesView: View {
         } detail: {
             if let item = selectedItem {
                 ItemDetailContent(item: item)
+                    .id(item.id)
             } else {
                 ContentUnavailableView(
                     "Select a Favourite",
