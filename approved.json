@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-21T00:47:04.093790Z",
+  "generatedAt": "2026-02-22T00:50:52.232610Z",
   "items": [
+    {
+      "id": "items/1696818",
+      "displayDate": "2026-02-22",
+      "title": "Photograph - Kodak Australasia Pty Ltd, Aerial View of Abbotsford Garage, Kodak Factory, Abbotsford, Victoria, 1961",
+      "summary": "Black and white silver gelatin photograph of an aerial view of Duke Street in Abbotsford featuring the west face of a factory building and looking towards Victoria Street, 1961 As the original factory at Southhampton Crescent outgrew its premises, several small factory buildings close by were acquired by the company to accommodate operations which were self-contained and not associated from the main film and paper manufacturing operations. The building in Duke Street was purchased by Kodak and used as the company Garage for the storage and maintenance of company vehicles. The main building occupied a rectangular block of land through to Grosvenor Street. Both street frontages had brick facades and side wings with iron cladding over timber and steel framing and a trussed saw tooth roof allowing large expanses of clear floor area with natural lighting. The larger section of this building facing Duke Street along with the adjacent iron clad skillion roofed annexe to the north served as the Garage, whilst the remaining section facing Grosvenor Street accommodated the Reels and Sundries Department operations. These buildings were collectively known as the 'Kodak Garage'. Kodak manufactured and distributed a wide range of photographic products to Australasia, such as, film, paper, chemicals, cameras and miscellaneous equipment. Its client base included amateur and professional photographers as well as specialist medical and graphic art professionals who used photography, x-ray and other imaging techniques. This photograph is part of the Kodak collection of products, promotional materials, photographs and working life artefacts collected from Kodak Australasia in 2005 after the manufacturing plant at Coburg had closed down the year before.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1696818.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1696818-thumb.webp",
+      "aspectRatio": 1.223,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1696818",
+      "location": {
+        "name": "Abbotsford",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/765598",
       "displayDate": "2026-02-21",
