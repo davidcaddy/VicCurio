@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-22T00:50:52.232610Z",
+  "generatedAt": "2026-02-23T00:50:35.145253Z",
   "items": [
+    {
+      "id": "specimens/251",
+      "displayDate": "2026-02-23",
+      "title": "Faith meteorite",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-251.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-251-thumb.webp",
+      "aspectRatio": 1.5,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/251",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/1696818",
       "displayDate": "2026-02-22",
