@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-23T22:47:39.489519Z",
+  "generatedAt": "2026-02-25T00:52:25.593694Z",
   "items": [
+    {
+      "id": "items/52571",
+      "displayDate": "2026-02-25",
+      "title": "Coin - Sixpence, Queen Anne, England, Great Britain, 1711",
+      "summary": "Silver coin; Denomination: sixpence Royal Mint, London Queen Anne (1702-1714) The legend reads as a single title from obverse to reverse and translates \"Anne by the Grace of God Queen of Great Britain, France and Ireland\"",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-52571.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-52571-thumb.webp",
+      "aspectRatio": 1.001,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/52571",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1758861",
       "displayDate": "2026-02-24",
