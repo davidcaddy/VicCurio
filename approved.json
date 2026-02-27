@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-26T00:46:34.975288Z",
+  "generatedAt": "2026-02-27T00:49:04.378663Z",
   "items": [
+    {
+      "id": "items/766544",
+      "displayDate": "2026-02-27",
+      "title": "Negative - Digby, Victoria, 1921",
+      "summary": "The Digby B football team.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-766544.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-766544-thumb.webp",
+      "aspectRatio": 1.39,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/766544",
+      "location": {
+        "name": "Digby",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/1905522",
       "displayDate": "2026-02-26",
