@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-27T00:49:04.378663Z",
+  "generatedAt": "2026-02-28T00:43:59.440685Z",
   "items": [
+    {
+      "id": "items/1406273",
+      "displayDate": "2026-02-28",
+      "title": "Hat - Female, Wool, Brown,1950s",
+      "summary": "Brown woollen hat worn by Carmela Palermo when she migrated to Australia from Italy as a proxy bride in 1957. It was a present from her father who purchased it for her in Rome just prior to her departure. She continued to wear it in Australia and tended to make her own clothes as she was not taken with the local fashions. Carmela Palermo (nee Rocca) was born in 1940 in Sambiase, Calabria, Italy. She migrated to Australia as a proxy bride in 1957, flying via Rome and landing at Essendon Airport. She married neighbour Vicenzo Palermo who had migrated to Australia 5 years previously. They settled in a very underdeveloped Keilor. Carmela brought a glory box with her which followed by ship (two travelling trunks), and included linen, a dinner set, and a trousseau. The migration experience was a very difficult one for Carmela, with no family (although her husband had family in Australia) nor English language proficiency, she was extremely lonely and isolated. It took many years for her to settle, seek education and make Australia her home.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1406273.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1406273-thumb.webp",
+      "aspectRatio": 0.703,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1406273",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/766544",
       "displayDate": "2026-02-27",
