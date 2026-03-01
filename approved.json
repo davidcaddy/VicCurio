@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-02-28T00:43:59.440685Z",
+  "generatedAt": "2026-03-01T00:55:32.266822Z",
   "items": [
+    {
+      "id": "items/1092045",
+      "displayDate": "2026-03-01",
+      "title": "Hand Saw - Wood & Metal, circa 1890s",
+      "summary": "Hand Saw used by John Spence to make furniture for the Nicholls' home in Australia. John Spence migrated to Australia in 1923 with his nephew's family, William and Susannah Nicholls and their two children Margaret and John. In Australia the family first moved to Walwa in North Eastern Victoria, where Will was appointed as a teacher. They then moved to Pearcedale on the Mornington Peninsula, as Will was keen to try farming. The farming was unsuccessful, and both Will and Susannah returned to teaching.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1092045.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1092045-thumb.webp",
+      "aspectRatio": 1.5,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1092045",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1406273",
       "displayDate": "2026-02-28",
