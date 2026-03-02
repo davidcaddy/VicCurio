@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-01T00:55:32.266822Z",
+  "generatedAt": "2026-03-02T00:49:14.990454Z",
   "items": [
+    {
+      "id": "items/793279",
+      "displayDate": "2026-03-02",
+      "title": "Glass Negative - Double Toggle Jaw Crushers, Chas Ruwolt Pty Ltd, Richmond, Victoria, 1929",
+      "summary": "'Ruwolt' standard 24'x 14' rock crusher. With forced lubrication. - Chas Ruwolt Pty Ltd' two crushers shown front and rear.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-793279.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-793279-thumb.webp",
+      "aspectRatio": 1.319,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/793279",
+      "location": {
+        "name": "Richmond",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1092045",
       "displayDate": "2026-03-01",
