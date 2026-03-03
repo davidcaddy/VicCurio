@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-02T00:49:14.990454Z",
+  "generatedAt": "2026-03-03T00:50:03.719483Z",
   "items": [
+    {
+      "id": "items/795753",
+      "displayDate": "2026-03-03",
+      "title": "Negative - Victoria, circa 1930",
+      "summary": "C class 2-8-0 type steam locomotive No.1. It was built by the Newport workshops of Victorian Railways in 1918.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-795753.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-795753-thumb.webp",
+      "aspectRatio": 1.352,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/795753",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/793279",
       "displayDate": "2026-03-02",
