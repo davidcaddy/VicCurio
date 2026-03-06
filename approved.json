@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-05T00:49:24.470418Z",
+  "generatedAt": "2026-03-06T00:52:25.749898Z",
   "items": [
+    {
+      "id": "items/369052",
+      "displayDate": "2026-03-06",
+      "title": "Scarf - 'Souvenir of the Great World War', Gallipoli, World War I, circa 1915",
+      "summary": "Alternative Name(s): Handkerchief Scarf picturing landing of Australian troops at Gallipoli on 25 April 1915 as centrepiece, surrounded by flags. Four warships are illustrated in the corners, while the Emden appears underneath the central panel. Printed on the handkerchief is 'A souvenir of the great world war and the part played by Australia and New Zealand - the landing of our gallant sons of the empire on the Gallipoli peninsula - \"The scrap heap\" a view of the \"Emden\" after the fight with the \"Sydney\" off the Cocos Keeling islands' (which occured on 9 November 1914). Made around 1915.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-369052.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-369052-thumb.webp",
+      "aspectRatio": 1.324,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/369052",
+      "location": {
+        "name": "Gallipoli Peninsula",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/140972",
       "displayDate": "2026-03-05",
