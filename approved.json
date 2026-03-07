@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-06T00:52:25.749898Z",
+  "generatedAt": "2026-03-07T00:46:25.858004Z",
   "items": [
+    {
+      "id": "items/1209058",
+      "displayDate": "2026-03-07",
+      "title": "Medal - 1914-1915 Star, Great Britain, Colonel Richard Herbert Joseph Fetherston, 1918",
+      "summary": "1914-15 Star medal awarded to Col. Richard Herbert Joseph Fetherston, A.M.C., A.I.F. Dr. Richard Herbert Fetherston had previously served as a Captain with the Victorian Militia when he enlisted with the Australian Imperial Force in August 1914. He was officially 'taken up' on August 15, 1914 as the Director-General of Medical Services (DGMS). He was gazetted as a Colonel in 1915 and as Surgeon-General in 1916. Although he had enlisted for active service, Fetherston was based in Melbourne throughout the war having been deemed 'indispensable' to Australia. Despite this, Fetherston was sent on two inspection tours of the Australian Army Medical Corps overseas and was responsible for the reorganisation of the corps. Fetherston is commended in the Official History for his abilities and devotion to duty. He retired from military service in 1919. According to the terms of his will, Fetherston's medals (and those of his father) were left to his two sons - Gerald and Herbert Fetherston. They were later donated to the National Gallery of Victoria and subsequently transferred into Museum Victoria's collection. The 1914-15 Star was authorised in 1918 to be awarded to those who saw service between 5 August 1914 and 31 December 1915 (excluding those who were eligible for the 1914 Star) - 2,350,000 were issued.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1209058.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1209058-thumb.webp",
+      "aspectRatio": 0.517,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1209058",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/369052",
       "displayDate": "2026-03-06",
