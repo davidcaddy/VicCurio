@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-07T00:46:25.858004Z",
+  "generatedAt": "2026-03-08T00:50:23.561467Z",
   "items": [
+    {
+      "id": "items/395233",
+      "displayDate": "2026-03-08",
+      "title": "Aeroplane Model - Lockheed Altair 'Lady Southern Cross', Single-Propeller Mono-Wing, Burbank, California, 1934",
+      "summary": "This model of Sir Charles Kingsford Smith's 'Lady Southern Cross' was made by Mr B.D. Hede for the Museum in 1960. The original Altair aircraft design was produced by the Lockheed Corporation at Burbank, California, United States of America, between 1932 and 1936.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-395233.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-395233-thumb.webp",
+      "aspectRatio": 1.34,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/395233",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1209058",
       "displayDate": "2026-03-07",
