@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-08T00:50:23.561467Z",
+  "generatedAt": "2026-03-09T00:50:00.239300Z",
   "items": [
+    {
+      "id": "specimens/447300",
+      "displayDate": "2026-03-09",
+      "title": "Manorina flavigula flavigula",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-447300.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-447300-thumb.webp",
+      "aspectRatio": 0.687,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/447300",
+      "location": {
+        "name": "Hattah",
+        "showOnMap": false
+      },
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/395233",
       "displayDate": "2026-03-08",
