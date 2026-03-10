@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-09T00:50:00.239300Z",
+  "generatedAt": "2026-03-10T00:45:31.848027Z",
   "items": [
+    {
+      "id": "items/773018",
+      "displayDate": "2026-03-10",
+      "title": "Negative - Eden Valley, South Australia, circa 1905",
+      "summary": "Beekeepers at their camp. The hut is constructed from hessian sacks..",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-773018.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-773018-thumb.webp",
+      "aspectRatio": 1.781,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/773018",
+      "location": {
+        "name": "Eden Valley",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/447300",
       "displayDate": "2026-03-09",
