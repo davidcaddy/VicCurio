@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-10T00:45:31.848027Z",
+  "generatedAt": "2026-03-11T00:14:51.275324Z",
   "items": [
+    {
+      "id": "items/2098520",
+      "displayDate": "2026-03-11",
+      "title": "Negative - Group in Front of a House, Canterbury, Victoria, 20 Nov 1920",
+      "summary": "Negative of a group in front of a house at 36 Wentworth Street Canterbury, photographed on 20 November 1920. The group probably includes members of the Storie family. Part of a collection of paper-based ephemera relating to the life of Miss Elsie Storie, a middle-class Melbourne woman who was born around 1895, lived through both wars, and remained in Melbourne all her life.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2098520.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2098520-thumb.webp",
+      "aspectRatio": 1.71,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2098520",
+      "location": {
+        "name": "Canterbury",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/773018",
       "displayDate": "2026-03-10",
