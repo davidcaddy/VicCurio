@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-11T00:14:51.275324Z",
+  "generatedAt": "2026-03-12T00:42:48.429004Z",
   "items": [
+    {
+      "id": "items/767199",
+      "displayDate": "2026-03-12",
+      "title": "Negative - Melbourne (?), Victoria, circa 1900",
+      "summary": "A cricket team. The team may be a government one or it may be a team known as the 'Lady Forget-Me-Nots'.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-767199.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-767199-thumb.webp",
+      "aspectRatio": 1.219,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/767199",
+      "location": {
+        "name": "Melbourne (?)",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/2098520",
       "displayDate": "2026-03-11",
