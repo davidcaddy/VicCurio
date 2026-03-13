@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-12T00:42:48.429004Z",
+  "generatedAt": "2026-03-13T00:48:34.312044Z",
   "items": [
+    {
+      "id": "items/792340",
+      "displayDate": "2026-03-13",
+      "title": "Glass Negative - State Electricity Commission, Newport, Victoria, Dec 1922",
+      "summary": "Part of a large photographic collection of glass plate and film negatives, photographic prints and photo albums, relating to the development of the electric power supply industry in Victoria, operated by the State Electricity Commission of Victoria (SECV) from 1919 to 1993 and various predecessor private and municipal power supply enterprises dating back to the late 1880s.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-792340.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-792340-thumb.webp",
+      "aspectRatio": 1.319,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/792340",
+      "location": {
+        "name": "Newport",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/767199",
       "displayDate": "2026-03-12",
