@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-13T00:48:34.312044Z",
+  "generatedAt": "2026-03-14T00:46:45.429342Z",
   "items": [
+    {
+      "id": "items/2095513",
+      "displayDate": "2026-03-14",
+      "title": "Milk Bottle - 10 oz, Travancore Dairy, J.A. Riddell, Flemington, circa 1930-1960",
+      "summary": "Milk bottle, 10 ounces, bottled for sale by Travancore Dairy and PasteurizedJ.A. Riddell, Flemington. Travancore Dairy's main operations were located at Kent Street, Ascot Vale; other locations for the Dairy named in the 1957 Victorian Gazette were 200 Keilor Road, Essendon (site of Oakland's Park Dairy) and 209 Buckley Street, Essendon. The Travancore Dairy was mentioned in the Argus newspaper on 15 September 1955, naming the Dairy's chairman, Mr Allan O. Martin, and explaining that Travancore Dairies then took 10,000 gallons of milk daily from Gippsland dairy farms in tankers, pasteurized it, and put it onto 90,000 bottles for distribution in Melbourne's west, south-west and north-west. One of their tankers came to grief on 4 January 1957, when it collided with a tram and overturned in South Melbourne when returning from Morwell. Allan and Norman Martin, residents of Moonee Valley, had been in the dairy business from the 1930s. By 1968 Travancore Dairy was owned by Consolidated Foods, which then had a team of 300 horses delivering to Melbourne households each day. The milk bottle was used as a prop in the 'House Secrets' exhibition at Scienceworks, 6 March 2006 to 14 July 2013. Most of the props for the exhibition were sourced from opportunity shops in 2002 and 2003 by curator Andi Horvarth and other Museum Victoria staff. 'House Secrets' aimed to 'Explore the science behind all the familiar things in our homes', presenting 'all sorts of wonderful things we might find around the home, from the food we eat, to the appliances we use, to the animals we share our living space with.' The exhibition was 'highly interactive'.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2095513.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2095513-thumb.webp",
+      "aspectRatio": 0.75,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2095513",
+      "location": {
+        "name": "Ascot Vale",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/792340",
       "displayDate": "2026-03-13",
