@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-14T00:46:45.429342Z",
+  "generatedAt": "2026-03-15T00:56:45.867803Z",
   "items": [
+    {
+      "id": "items/1706498",
+      "displayDate": "2026-03-15",
+      "title": "Chair - Entrance Hall, Dolls' House, 'Pendle Hall', 1940s",
+      "summary": "Chair from Room 12 - Entrance Hall, Main Building Section, Pendle Hall. From right side wall near doorway. It was created by Felicity Clemons as part of a 40 project to create a grand fully-furnished Georgian style country dolls' house. The project began in the 1940s when Felicity's daughter, Antonia, was given a three-room dolls' house by her grandmother. Mrs Clemons was not happy with its scale or authenticity and so began a rebuilding project which resulted in a four storey grand house, now known as Pendle Hall. Although some items were purchased during shopping trips to Melbourne, the majority of furnishings were constructed by Felicity's own hands, using numerous reference books and magazines.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1706498.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1706498-thumb.webp",
+      "aspectRatio": 0.796,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1706498",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/2095513",
       "displayDate": "2026-03-14",
