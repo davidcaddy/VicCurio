@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-15T00:56:45.867803Z",
+  "generatedAt": "2026-03-16T00:56:04.529852Z",
   "items": [
+    {
+      "id": "specimens/4169",
+      "displayDate": "2026-03-16",
+      "title": "Calcite",
+      "summary": "The mineral calcite is very common and occurs around the world in many forms. This specimen came from California. In its pure form calcite is white or colourless but can show other colours, including red, pink, green, violet, black and yellow. It is quite soft and can be quite easily scratched. Calcite is a major component of many rocks, most commonly in sedimentary rocks such as chalk and limestone, but also in metamorphic rocks such as marble, and some igneous rocks. Calcite is one of the most economically important minerals and has uses in many industries in its many forms, including in farming, building, mining and medicine. Calcite is an important biomineral as it is the main component of many invertebrate shells, including those of many bivalves, snails, echinoderms, brachiopods, sponges, coccoliths, foraminifera and some algae. Many sedimentary rocks made up of calcite are formed from the shells of dead invertebrates. Calcite is made up of calcium and carbon and oxygen as carbonate.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-4169.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-4169-thumb.webp",
+      "aspectRatio": 1.5,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/4169",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/1706498",
       "displayDate": "2026-03-15",
