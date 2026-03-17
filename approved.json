@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-16T00:56:04.529852Z",
+  "generatedAt": "2026-03-17T00:47:47.196505Z",
   "items": [
+    {
+      "id": "items/2176413",
+      "displayDate": "2026-03-17",
+      "title": "Poster - Photographic Employer's Association of Victoria, Mornington Excursion, 10 May 1917",
+      "summary": "Poster featuring seven black and white photographs of members of the Photographic Employer's Association of Victoria on an excursion to Mornington on 10th May 1917. There are also two pages of members' signatures and a small menu from a 'Motor Dinner' held on the day. The poster was presented to Kodak 'as a mark of appreciation' from the Association. Mr Slocombe, an Australian Kodak Limited executive at Abbotsford, has signed the booklet on the left. This poster is part of the Kodak collection of products, promotional materials, photographs and working life artefacts collected from Kodak Australasia in 2005, when the Melbourne manufacturing plant at Coburg closed down.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2176413.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2176413-thumb.webp",
+      "aspectRatio": 1.532,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2176413",
+      "location": {
+        "name": "Mornington",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/4169",
       "displayDate": "2026-03-16",
