@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-17T00:47:47.196505Z",
+  "generatedAt": "2026-03-18T00:51:11.201206Z",
   "items": [
+    {
+      "id": "items/1203593",
+      "displayDate": "2026-03-18",
+      "title": "Queen's Baton - Commonwealth Games, Melbourne, 2006",
+      "summary": "Baton and stand, made for the Melbourne 2006 Commonwealth Games Queen's Baton Relay. A total of five identical batons were used in the 366-day relay (14 March 2005 - 15 March 2006) that visited every nation in the Commonwealth. They were designed and assembled by Melbourne product design company Charlwood Design from parts made by 23 Australian companies. The front face of the baton contains the detachable Queen's Message Button a digital storage device onto which the Queen's Message to the Athletes of the XVIII Commonwealth Games was encoded. The stand for the baton was made to be used while the relay was underway. It includes a socket for the base of the baton, with a connection point that runs to a battery charger, so that the baton could be charged overnight. The Queen's Baton Relay has been the traditional curtain-raiser to the Commonwealth Games since 1958. It symbolises the gathering of people from across the Commonwealth. On 14 March 2005 Her Majesty placed a message in the baton at Buckingham Palace, signalling the start of a journey of almost 180,000 kilometres. The baton's journey to the opening ceremony took exactly one year and one day, the first baton relay to visit all 71 nations of the Commonwealth. Athletes and non-athletes alike carried the baton. The final four Queen's Baton runners were Cathy Freeman, Ron Clarke, Marjorie Jackson-Nelson and John Landy. Landy was given the privilege of presenting the baton to the Queen. The tracksuit and shoes that he wore on the occasion are held in the collection of Museums Victoria. It is not recorded if this particular baton was the one he presented. It was given to the Victorian Government by the Melbourne 2006 Commonwealth Games Corporation.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1203593.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1203593-thumb.webp",
+      "aspectRatio": 0.512,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1203593",
+      "location": {
+        "name": "Melbourne",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/2176413",
       "displayDate": "2026-03-17",
