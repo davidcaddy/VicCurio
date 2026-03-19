@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-18T00:51:11.201206Z",
+  "generatedAt": "2026-03-19T00:51:18.619726Z",
   "items": [
+    {
+      "id": "specimens/1005865",
+      "displayDate": "2026-03-19",
+      "title": "Cardiothorax aureus Carter, 1906",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1005865.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1005865-thumb.webp",
+      "aspectRatio": 1.5,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/1005865",
+      "location": {
+        "name": "Grose Vale",
+        "showOnMap": false
+      },
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1203593",
       "displayDate": "2026-03-18",
