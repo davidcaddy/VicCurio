@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-19T00:51:18.619726Z",
+  "generatedAt": "2026-03-20T00:49:08.046213Z",
   "items": [
+    {
+      "id": "items/828193",
+      "displayDate": "2026-03-20",
+      "title": "Overcoat - Josef Blau, Dark Blue, Wool, circa 1930s",
+      "summary": "Dark blue, double-breasted, woollen overcoat made by Josef Blau in Vienna, circa 1930s. It was brought out to Australia by Robert Salter, a Jewish refugee who migrated to Australia from Austria, in 1938, just before the German annexation of Austria. When Robert arrived in Brisbane on the 'New Zealand' he found that his application for residency had been rejected. However with the help of William Maloney, an MP who befriended him, Robert was finally able to obtain permits for himself, his parents and fiancee. This coat along with a trunk, is the only surviving item of his migrant belongings.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-828193.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-828193-thumb.webp",
+      "aspectRatio": 0.667,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/828193",
+      "location": {
+        "name": "Vienna",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/1005865",
       "displayDate": "2026-03-19",
