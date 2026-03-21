@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-20T00:49:08.046213Z",
+  "generatedAt": "2026-03-21T00:46:30.367145Z",
   "items": [
+    {
+      "id": "items/1333306",
+      "displayDate": "2026-03-21",
+      "title": "Photograph - Sunshine Harvester Works Bowls Team, Ballarat, Victoria, circa 1919",
+      "summary": "Black and white photograph of Harvester Works Bowls team at Ballarat, circa 1919. Photographed by Hornby Studios, Ballarat. Part of the H.V. McKay Old Archive. Documents include personal correspondence, agreements, contracts, prospectus, harvester works, harvester stripper - articles and claim of invention, staff, social activity, farmers visits, company publications, photographs.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1333306.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1333306-thumb.webp",
+      "aspectRatio": 1.266,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1333306",
+      "location": {
+        "name": "Ballarat",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/828193",
       "displayDate": "2026-03-20",
