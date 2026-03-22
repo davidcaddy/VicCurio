@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-21T00:46:30.367145Z",
+  "generatedAt": "2026-03-22T00:52:56.275262Z",
   "items": [
+    {
+      "id": "items/766527",
+      "displayDate": "2026-03-22",
+      "title": "Negative - Glenelg River, Victoria, Mar 1900",
+      "summary": "Fishermen's camp at the punt, Glenelg River.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-766527.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-766527-thumb.webp",
+      "aspectRatio": 1.344,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/766527",
+      "location": {
+        "name": "Glenelg River",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1333306",
       "displayDate": "2026-03-21",
