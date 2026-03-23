@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-22T00:52:56.275262Z",
+  "generatedAt": "2026-03-23T00:53:27.021861Z",
   "items": [
+    {
+      "id": "items/256822",
+      "displayDate": "2026-03-23",
+      "title": "Sewing Machine - Singer, 1898",
+      "summary": "Singer sewing machine, serial number 15539186. Serial number indicates made in 1898. Used at Simpson's Gloves Pty Ltd, Richmond in the upstairs workroom. Simpson's Gloves Pty Ltd was formed in 1924 and produced leather gloves and coats, handbags, helmets and associated leather goods. The company first operated in Smith Street, and subsequently Alexandra Parade, Collingwood, relocating to Victoria Street, Richmond in 1928, where it remained until 1988.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-256822.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-256822-thumb.webp",
+      "aspectRatio": 1.103,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/256822",
+      "location": {
+        "name": "New York",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/766527",
       "displayDate": "2026-03-22",
