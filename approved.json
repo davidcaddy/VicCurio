@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-23T00:53:27.021861Z",
+  "generatedAt": "2026-03-24T00:46:12.736702Z",
   "items": [
+    {
+      "id": "items/259088",
+      "displayDate": "2026-03-24",
+      "title": "Hair Clippers - circa 1920",
+      "summary": "Hair clippers, circa 1920. Used at Mayday Hills Hospital, a mental health hospital in Beechworth, Victoria, Australia. Part of the duties of attendants at psychiatric institutions was to clean and groom patients. Attendants often cut patients' hair.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-259088.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-259088-thumb.webp",
+      "aspectRatio": 1.286,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/259088",
+      "location": {
+        "name": "Beechworth",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/256822",
       "displayDate": "2026-03-23",
