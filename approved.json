@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-24T00:46:12.736702Z",
+  "generatedAt": "2026-03-25T00:50:46.017932Z",
   "items": [
+    {
+      "id": "items/771685",
+      "displayDate": "2026-03-25",
+      "title": "Negative - Man & Girl in Front of Brick House, Horsham (?), Victoria, circa 1885",
+      "summary": "Black and white negative of a man and girl posing in front of a brick house, possibly in Horsham, Victoria, circa 1885. Part of 'The Biggest Family Album in Australia Collection', comprising approximately 10,000 negatives. The collection documents life in rural and regional Victoria dating from the 1890s to the 1940s.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-771685.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-771685-thumb.webp",
+      "aspectRatio": 1.732,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/771685",
+      "location": {
+        "name": "Horsham (?)",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/259088",
       "displayDate": "2026-03-24",
