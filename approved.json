@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-25T00:50:46.017932Z",
+  "generatedAt": "2026-03-26T00:54:09.490272Z",
   "items": [
+    {
+      "id": "items/1782476",
+      "displayDate": "2026-03-26",
+      "title": "Photograph - 'HMAS Canberra Flagship' 1937-1939",
+      "summary": "Black and white photograph of naval ship, H.M.A.S Canberra in port at Melbourne. One of 48 photographs in a photographic album. Taken by D.R.Goodwin, Royal Australian Navy (R.A.N.) 1937-1939. The images are of H.M.A.S Cerberus and other naval ships, naval training and field gun crews.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1782476.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1782476-thumb.webp",
+      "aspectRatio": 1.5,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1782476",
+      "location": {
+        "name": "Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/771685",
       "displayDate": "2026-03-25",
