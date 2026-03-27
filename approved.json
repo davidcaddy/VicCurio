@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-26T00:54:09.490272Z",
+  "generatedAt": "2026-03-27T00:54:23.545432Z",
   "items": [
+    {
+      "id": "items/248867",
+      "displayDate": "2026-03-27",
+      "title": "Photograph - Phar Lap, Trainer Tommy Woodcock & Jockey Bill Elliot, Agua Caliente, 20 Mar 1932",
+      "summary": "Small black and white photograph of trainer Tommy Woodcock, jockey Bill Elliot and Phar Lap at Agua Caliente Racecourse in Mexico, on 20 March 1932. By 1931, Phar Lap had won virtually every major Australian race, many of them twice. The idea of taking Phar Lap to the United States, which offered a rich racing circuit, had been discussed among racing people for some time. The Agua Caliente Handicap, held in the Mexican town of Agua Caliente, a casino-resort complex set just over the USA border, was America's richest race with prize money of US$100,000. The large prize ensured Phar Lap raced America's best, despite a halving of the prize money several weeks before the race because of the Depression. Harry Telford had other horses to train, and so nominated Tom Woodcock to accompany Phar Lap as both strapper and trainer. On Friday 20 November 1931 Phar Lap sailed from Sydney Harbour, on a six week journey, which included a break in Auckland. The race was scheduled for late in the day and Phar Lap, from an outside barrier, was one of the last away. Jockey Billy Elliot had been warned not to get too close to the fence because other jockeys might block him for a run. Rounding the first turn, Elliot took Phar Lap out very wide to the centre of the track to avoid the dirt being thrown up by the field. Along the back straight Phar Lap went from about second-last to gather up the entire field, finding the fence as the next turn commenced. Elliot then let the horse take it easy, holding his front position coming up to the hometurn. It was at this point, that Reveille Boy moved forward and momentarily got his head in front. Elliot gave Phar Lap no more than a nudge and in a couple of his giant strides Phar Lap put himself two, then three lengths in front to win the race.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-248867.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-248867-thumb.webp",
+      "aspectRatio": 1.356,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/248867",
+      "location": {
+        "name": "Agua Caliente",
+        "region": "Tijuana",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1782476",
       "displayDate": "2026-03-26",
