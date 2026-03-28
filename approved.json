@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-27T00:54:23.545432Z",
+  "generatedAt": "2026-03-28T00:50:05.349342Z",
   "items": [
+    {
+      "id": "items/794535",
+      "displayDate": "2026-03-28",
+      "title": "Photograph - 'Our Corner, Elm Grove', by A.J. Campbell, Victoria, circa 1895",
+      "summary": "Image taken by A.J. Campbell, it is one of his earliest. Photograph album containing 181 black and white and sepia toned photographs taken by A.J. Campbell, ornithologist, during field trips to various parts of Australia. One of two albums covering these trips [see also HT 15824]",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-794535.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-794535-thumb.webp",
+      "aspectRatio": 1.488,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/794535",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/248867",
       "displayDate": "2026-03-27",
