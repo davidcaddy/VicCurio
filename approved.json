@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-28T00:50:05.349342Z",
+  "generatedAt": "2026-03-29T00:57:37.864535Z",
   "items": [
+    {
+      "id": "items/770066",
+      "displayDate": "2026-03-29",
+      "title": "Negative - Churches, Charlton, Victoria, 1898",
+      "summary": "View of two churches in Charlton, Victoria, 14 April 1898. Photograph by Thomas Beckett. Part of a collection of glass plate negatives taken by Dr Thomas George Beckett, doctor, pioneering radiologist and amateur photographer between 1891 and 1910. The collection is primarily of Beckett's family, friends, homes, and towns and suburbs where Beckett and his family lived, including Charlton in central Victoria and Northcote & South Yarra, suburbs of Melbourne, Victoria.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-770066.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-770066-thumb.webp",
+      "aspectRatio": 1.512,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/770066",
+      "location": {
+        "name": "Charlton",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/794535",
       "displayDate": "2026-03-28",
