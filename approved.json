@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-29T00:57:37.864535Z",
+  "generatedAt": "2026-03-30T00:57:12.705611Z",
   "items": [
+    {
+      "id": "specimens/9643",
+      "displayDate": "2026-03-30",
+      "title": "Crystal model",
+      "summary": "The study of mineralogy was a particular focus of the National Museum of Victoria (which eventually became Museums Victoria) in its earliest days. Over 1000 wooden crystal models were purchased between the years of 1857 and 1872 from Dr August Krantz of Bonn, Germany, one of the foremost mineral dealers of Europe at this time. Of the 1000 crystal models purchased, around 200 remain in Museums Victoria's collections today. Crystal models are technical and educational tools used to illustrate the varieties in shape, or 'habit', particular groups of crystals can take. The range of crystal shapes possible for a material depends on the arrangement of the atoms that make it up, although it isn't always easy to see why a particular arrangement of atoms gives rise to a particular shape (for example, one of the habits taken by materials made from atoms in a cubic arrangement is a dodecahedron, or twelve-sided shape). There are six crystal families into which minerals and other crystalline materials can be categorised; cubic, orthorhombic, monoclinic, tetragonal, triclinic, and hexagonal. The model M 6910 is an example of a crystal habit that is exhibited by crystals in the tetragonal crystal family. Wulfenite is a mineral that commonly displays the habit illustrated by M 6910.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-9643.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-9643-thumb.webp",
+      "aspectRatio": 1.0,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/9643",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/770066",
       "displayDate": "2026-03-29",
