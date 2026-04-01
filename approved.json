@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-03-31T00:54:25.365524Z",
+  "generatedAt": "2026-04-01T01:00:19.745262Z",
   "items": [
+    {
+      "id": "items/2097671",
+      "displayDate": "2026-04-01",
+      "title": "Dust Coat - Greg Hayes, Metrology Department, Kodak Australasia Pty Ltd, Coburg, circa 2000s",
+      "summary": "Dust coat for use in the Kodak Australasia Pty Ltd factory, Coburg, circa 2000s by Greg Hayes of the Metrology Department. The coat is Hard Yakka brand. This object is part of the Kodak collection of products, promotional materials, photographs and working life artefacts collected from Kodak Australasia in 2005, when the Melbourne manufacturing plant at Coburg closed down. Kodak manufactured and distributed a wide range of photographic products to Australasia, such as film, paper, chemicals, cameras and miscellaneous equipment. Its client base included amateur and professional photographers, as well as specialist medical and graphic art professionals who used photography, x-ray and other imaging techniques.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2097671.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2097671-thumb.webp",
+      "aspectRatio": 1.27,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2097671",
+      "location": {
+        "name": "Coburg",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1747636",
       "displayDate": "2026-03-31",
