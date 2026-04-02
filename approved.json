@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-01T01:00:19.745262Z",
+  "generatedAt": "2026-04-02T00:52:13.145275Z",
   "items": [
+    {
+      "id": "specimens/2316751",
+      "displayDate": "2026-04-02",
+      "title": "Toxorhina",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2316751.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2316751-thumb.webp",
+      "aspectRatio": 1.499,
+      "credit": "Museums Victoria",
+      "licence": "CC BY-NC",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/2316751",
+      "location": {
+        "name": "Marriners Waterfall Trail.",
+        "showOnMap": false
+      },
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/2097671",
       "displayDate": "2026-04-01",
