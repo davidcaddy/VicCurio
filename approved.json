@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-02T00:52:13.145275Z",
+  "generatedAt": "2026-04-03T00:54:44.639083Z",
   "items": [
+    {
+      "id": "items/1751775",
+      "displayDate": "2026-04-03",
+      "title": "Photograph - Schumacher Mill Furnishing Works, Elevator, Port Melbourne, Victoria, circa 1930s",
+      "summary": "Black and white promotional image of an elevator. It is part of a collection of photographs and marked printer's copy used in the preparation of trade literature promoting products manufactured by the Schumacher Mill Furnishing Works Pty Ltd. The items were originally housed in a wooden filing drawer, with many filed by subject. The Schumacher Mill Furnishing Works of Port Melbourne was established by the German-born American immigrant Otto Charles Schumacher around 1890. Operating initially under the name Otto C. Schumacher, the firm specialised in the importation, manufacture, installation and repair of flourmilling equipment, especially the newer style roller flour grinding machines, and associated equipment such as flour sifters, pollard and bran extractors, dust collectors, grain elevators and bag fillers. The business was formally registered as the Schumacher Mill Furnishing Works Pty Ltd in 1910. In later years the firm diversified into the manufacture of grain grading machinery for farmers and more general manufacturing equipment such as grinding mills, conveyors and packaging machinery.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1751775.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1751775-thumb.webp",
+      "aspectRatio": 0.719,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1751775",
+      "location": {
+        "name": "Port Melbourne",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/2316751",
       "displayDate": "2026-04-02",
