@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-03T00:54:44.639083Z",
+  "generatedAt": "2026-04-04T00:50:17.274562Z",
   "items": [
+    {
+      "id": "items/273961",
+      "displayDate": "2026-04-04",
+      "title": "Medal - International Exhibition Silver Prize, Victoria, Australia, 1873",
+      "summary": "Australia Victoria Melbourne Silver Prize Medal of 1873 International Exhibition Mint: Stokes & Martin Awarded to: Victoria Varnish Company for Varnish Other Details: Silver prize medal awarded at the 1873 International Exhibition to the Victoria Varnish Company for its display of varnish. The medal was awarded for four entries in Class II - Drysaltery: #609, 'Varnishes for various purposes, and panel showing the same'; #610: Anti-fouling composition, for ships' bottoms, etc'; #611: 'Japan paint, for various purposes'; and #612: 'Case showing names of ships and steamers painted by the process' (Official Record, p.48). The company also advertised in the Official Record (p.181), listing their address as 36 Market Street, Melbourne, and advertising their varnishes for 'coachbuilders, house painters and decorators, cabinet makers, etc'. Borthwick and Auld were the managers of the company. The 1873 International Exhibition was held in London 14 April - 31 October 1873. It was preceeded by a Victorian Exhibiton held in Melbourne 6 November 1872 - 8 January 1873. Vienna also hosted an international exhibition 1 May - 1 November 1873.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-273961.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-273961-thumb.webp",
+      "aspectRatio": 0.989,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/273961",
+      "location": {
+        "name": "Melbourne",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1751775",
       "displayDate": "2026-04-03",
