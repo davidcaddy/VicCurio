@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-04T00:50:17.274562Z",
+  "generatedAt": "2026-04-05T00:58:18.004339Z",
   "items": [
+    {
+      "id": "items/395525",
+      "displayDate": "2026-04-05",
+      "title": "Electronic Valve - Mullard, Triode Diode, Type EAC91, 1950-1959",
+      "summary": "EAC91 type triode- diode, made by Mullard, England.Used for detection and amplification in radios.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-395525.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-395525-thumb.webp",
+      "aspectRatio": 0.478,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/395525",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/273961",
       "displayDate": "2026-04-04",
