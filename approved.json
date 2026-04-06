@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-05T00:58:18.004339Z",
+  "generatedAt": "2026-04-06T00:57:25.255850Z",
   "items": [
+    {
+      "id": "items/1331466",
+      "displayDate": "2026-04-06",
+      "title": "Photograph - H.V. McKay Sunshine Harvester Works, Sunshine, Victoria, 1906-1907",
+      "summary": "Photograph of the Sunshine Harvester Works, Sunshine, Victoria. The photograph is part of the H.V. McKay Old Archive in the Museum Victoria collection, consisting of photographic albums, photographs, negatives, business documents, plans and trade literature spanning the years 1901 to 1980.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1331466.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1331466-thumb.webp",
+      "aspectRatio": 1.726,
+      "credit": "Museums Victoria",
+      "licence": "All Rights Reserved",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1331466",
+      "location": {
+        "name": "Sunshine",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/395525",
       "displayDate": "2026-04-05",
