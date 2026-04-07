@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-06T00:57:25.255850Z",
+  "generatedAt": "2026-04-07T00:55:31.315597Z",
   "items": [
+    {
+      "id": "items/767473",
+      "displayDate": "2026-04-07",
+      "title": "Negative - Wando Vale, Victoria, 1907",
+      "summary": "According to Chris McConville in Mum and Dad Made History (1988), under the Closer Settlement Act the government bought up and subdivided large properties in the Wando Vale area, and hundreds of families came to settle in the area.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-767473.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-767473-thumb.webp",
+      "aspectRatio": 1.712,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/767473",
+      "location": {
+        "name": "Wando Vale",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1331466",
       "displayDate": "2026-04-06",
