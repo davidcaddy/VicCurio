@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-07T00:55:31.315597Z",
+  "generatedAt": "2026-04-08T00:55:59.908832Z",
   "items": [
+    {
+      "id": "items/1330855",
+      "displayDate": "2026-04-08",
+      "title": "Photograph - H.V McKay Massey Harris, Hay Day, circa 1955",
+      "summary": "Black and white photograph of a Sunshine Massey Harris Hay Day, circa 1955. Part of the H.V. McKay Old Archive. Documents include photo albums, photographs, negatives, duplicate parts and service manuals, price books, company publications, financial and production records, plans, maps and factory photographs.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1330855.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1330855-thumb.webp",
+      "aspectRatio": 1.316,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1330855",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/767473",
       "displayDate": "2026-04-07",
