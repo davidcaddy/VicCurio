@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-08T00:55:59.908832Z",
+  "generatedAt": "2026-04-09T00:47:05.321682Z",
   "items": [
+    {
+      "id": "items/767913",
+      "displayDate": "2026-04-09",
+      "title": "Negative - Castlemaine, Victoria, 1894",
+      "summary": "Castlemaine as seen from the railway.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-767913.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-767913-thumb.webp",
+      "aspectRatio": 1.272,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/767913",
+      "location": {
+        "name": "Castlemaine",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1330855",
       "displayDate": "2026-04-08",
