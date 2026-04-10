@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-09T00:47:05.321682Z",
+  "generatedAt": "2026-04-10T00:55:26.165684Z",
   "items": [
+    {
+      "id": "items/1706010",
+      "displayDate": "2026-04-10",
+      "title": "Chair - Withdrawing Room, Dolls' House, 'Pendle Hall', 1940s",
+      "summary": "One of a set of six chairs from Room 11 - Withdrawing Room, Main Building Section, Pendle Hall. It was created by Felicity Clemons as part of a 40 project to create a grand fully-furnished Georgian style country dolls' house. The project began in the 1940s when Felicity's daughter, Antonia, was given a three-room dolls' house by her grandmother. Mrs Clemons was not happy with its scale or authenticity and so began a rebuilding project which resulted in a four storey grand house, now known as Pendle Hall. Although some items were purchased during shopping trips to Melbourne, the majority of furnishings were constructed by Felicity's own hands, using numerous reference books and magazines.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1706010.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1706010-thumb.webp",
+      "aspectRatio": 1.499,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1706010",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/767913",
       "displayDate": "2026-04-09",
