@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-04-10T00:55:26.165684Z",
+  "generatedAt": "2026-05-18T23:04:39.253629Z",
   "items": [
+    {
+      "id": "items/780848",
+      "displayDate": "2026-05-19",
+      "title": "Photograph - H.V. McKay Massey Harris, Model 55 Diesel Tractor, Sunshine, Victoria, 1953",
+      "summary": "A Model 55 diesel tractor fitted with lights and a tool box. Note the 'vokes' air cleaner on top of bonnet; manufactured in Australia.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-780848.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-780848-thumb.webp",
+      "aspectRatio": 1.319,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/780848",
+      "location": {
+        "name": "Sunshine",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1706010",
       "displayDate": "2026-04-10",
