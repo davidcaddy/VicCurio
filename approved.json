@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-18T23:14:09.203910Z",
+  "generatedAt": "2026-05-20T01:15:30.216856Z",
   "items": [
+    {
+      "id": "items/2246158",
+      "displayDate": "2026-05-20",
+      "title": "Rocking Chair - Wood, McArthur Family Doll's House, 1920-1950",
+      "summary": "Toy wooden rocking chair, with rattan-look seat. Part of a dolls' house, built around 1920 by Neil McArthur for his much younger half-sister Elizabeth (Beth) Twycross, born in 1917. Neil made the doll's house out of found materials including cigar boxes; he also made many of the furnishings in the doll's house. Some of the contents of the doll's house may date back to the 1860s, played with by ancestor Charlotte Twycross; most date to either the 1920s or the 1940s-50s. In the early 1950s the donor was given the spruced-up doll's house as a birthday present by her parents. In later years her own daughter later added items, although she wasn't allowed to play due to its fragility.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2246158.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2246158-thumb.webp",
+      "aspectRatio": 0.931,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2246158",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/780848",
       "displayDate": "2026-05-19",
