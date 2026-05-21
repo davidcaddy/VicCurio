@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-20T01:15:30.216856Z",
+  "generatedAt": "2026-05-21T01:16:24.166265Z",
   "items": [
+    {
+      "id": "items/1469034",
+      "displayDate": "2026-05-21",
+      "title": "Negative - International Harvester, D40 Tray Truck, 1940",
+      "summary": "Part of a large collection of glass plate and film negatives, transparencies, photo albums, product catalogues, videos, motion picture films, company journals, advertisements and newspaper cuttings relating to the operations of the International Harvester Company and its subsidiaries in Australia. The International Harvester Company of America was formed in 1902 by the merger of five leading American agricultural machinery manufacturers. An Australian subsidiary was established in 1904 to manage Australian distribution and sales and over subsequent decades International Harvester became a major competitor to local manufacturers like H.V. McKay's Sunshine Harvester Works. Later International Harvester established its own Australian manufacturing works, producing agricultural equipment (and later tractors) at Geelong from 1939, motor trucks at Dandenong from 1952 and earthmoving and construction equipment at Port Melbourne from 1958.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1469034.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1469034-thumb.webp",
+      "aspectRatio": 1.319,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1469034",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/2246158",
       "displayDate": "2026-05-20",
