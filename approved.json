@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-21T01:16:24.166265Z",
+  "generatedAt": "2026-05-22T01:14:44.070905Z",
   "items": [
+    {
+      "id": "items/773692",
+      "displayDate": "2026-05-22",
+      "title": "Negative - St Kilda, Victoria, pre 1940",
+      "summary": "Two men and two women posing in an aeroplane cut out at Luna Park.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-773692.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-773692-thumb.webp",
+      "aspectRatio": 1.689,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/773692",
+      "location": {
+        "name": "St Kilda",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1469034",
       "displayDate": "2026-05-21",
