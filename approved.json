@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-22T01:14:44.070905Z",
+  "generatedAt": "2026-05-23T01:10:50.262322Z",
   "items": [
+    {
+      "id": "items/769406",
+      "displayDate": "2026-05-23",
+      "title": "Negative - Bridgewater District, Victoria, 1939",
+      "summary": "The homestead of 'Memsie' station on the banks of the Loddon River. The property was originally 35,000 acres but was reduced to 1000 acres. There is a car parked in front of the building and a power pole on the left.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-769406.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-769406-thumb.webp",
+      "aspectRatio": 1.301,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/769406",
+      "location": {
+        "name": "Bridgewater District",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/773692",
       "displayDate": "2026-05-22",
