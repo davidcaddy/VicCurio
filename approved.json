@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-23T01:10:50.262322Z",
+  "generatedAt": "2026-05-24T01:15:59.494455Z",
   "items": [
+    {
+      "id": "items/769712",
+      "displayDate": "2026-05-24",
+      "title": "Negative - Bairnsdale District, Victoria, 1920-1930",
+      "summary": "A load of quartz ready to go to the battery.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-769712.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-769712-thumb.webp",
+      "aspectRatio": 1.382,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/769712",
+      "location": {
+        "name": "Bairnsdale District",
+        "region": "Gippsland",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/769406",
       "displayDate": "2026-05-23",
