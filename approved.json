@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-24T01:15:59.494455Z",
+  "generatedAt": "2026-05-25T01:17:35.880997Z",
   "items": [
+    {
+      "id": "specimens/2576751",
+      "displayDate": "2026-05-25",
+      "title": "Albite",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2576751.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2576751-thumb.webp",
+      "aspectRatio": 1.2,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/2576751",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/769712",
       "displayDate": "2026-05-24",
