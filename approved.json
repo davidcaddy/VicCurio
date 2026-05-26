@@ -1,7 +1,28 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-25T01:17:35.880997Z",
+  "generatedAt": "2026-05-26T01:12:28.300966Z",
   "items": [
+    {
+      "id": "specimens/1964827",
+      "displayDate": "2026-05-26",
+      "title": "Eriophora",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1964827.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1964827-thumb.webp",
+      "aspectRatio": 0.751,
+      "credit": "Museums Victoria",
+      "licence": "CC BY-NC",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/1964827",
+      "location": {
+        "name": "Lake Condah Mission",
+        "showOnMap": false
+      },
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/2576751",
       "displayDate": "2026-05-25",
