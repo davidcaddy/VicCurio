@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-26T01:12:28.300966Z",
+  "generatedAt": "2026-05-27T01:16:40.673071Z",
   "items": [
+    {
+      "id": "items/761851",
+      "displayDate": "2026-05-27",
+      "title": "Photograph - Melbourne Electric Supply Co, Engine Room, Richmond, Victoria, 1912",
+      "summary": "Part of a large photographic collection of glass plate and film negatives, photographic prints and photo albums, relating to the development of the electric power supply industry in Victoria, operated by the State Electricity Commission of Victoria (SECV) from 1919 to 1993 and various predecessor private and municipal power supply enterprises dating back to the late 1880s.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-761851.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-761851-thumb.webp",
+      "aspectRatio": 1.255,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/761851",
+      "location": {
+        "name": "Richmond",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/1964827",
       "displayDate": "2026-05-26",
