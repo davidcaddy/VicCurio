@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-29T01:18:08.078983Z",
+  "generatedAt": "2026-05-30T01:12:25.117203Z",
   "items": [
+    {
+      "id": "items/2075881",
+      "displayDate": "2026-05-30",
+      "title": "Glass Negative - Women in Factory Uniforms, circa 1920-1930",
+      "summary": "Black and white 1/6th plate glass negative of a group of four women in factory uniform, including pinafores and caps, posing in a line. This is possibly the Kodak Australasia factory at Abbotsford. This image is part of the Kodak collection of products, promotional materials, photographs and working life artefacts collected from Kodak Australasia in 2005, when the Melbourne manufacturing plant at Coburg closed down. Kodak manufactured and distributed a wide range of photographic products to Australasia, such as film, paper, chemicals, cameras and miscellaneous equipment. Its client base included amateur and professional photographers, as well as specialist medical and graphic art professionals who used photography, x-ray and other imaging techniques.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2075881.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2075881-thumb.webp",
+      "aspectRatio": 0.729,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2075881",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/792460",
       "displayDate": "2026-05-29",
