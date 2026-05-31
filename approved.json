@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-30T01:12:25.117203Z",
+  "generatedAt": "2026-05-31T01:21:33.848231Z",
   "items": [
+    {
+      "id": "items/2195315",
+      "displayDate": "2026-05-31",
+      "title": "Invitation - To Mr. William A. Brahe & Mrs. Peipers, Evening Reception, Australian Commonwealth Celebrations, Exhibition Building, Melbourne, 9 May 1901",
+      "summary": "Invitation addressed to the Consul for the German Empire Mr. William A. Brahe and Mrs. Peipers from His Majesty's Ministers of State for the Commonwealth of Australia. The invitation invites the pair to an Evening Reception at the Exhibition Building to meet their Royal Highnesses The Duke and Duchess of Cornwall and York as part of the Australian Commonwealth Celebrations on the 9th May 1901. It is one of a set of ten invitations and entr\u00e9e cards used by the Consul to the German Empire William A. Brahe and his daughter Sabina Peipers during their attendance at the celebrations and official events surrounding Federation and the Opening of the First Parliament of the Commonwealth of Australia in 1901.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2195315.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-2195315-thumb.webp",
+      "aspectRatio": 1.198,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/2195315",
+      "location": {
+        "name": "Melbourne",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/2075881",
       "displayDate": "2026-05-30",
