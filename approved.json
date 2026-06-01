@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-05-31T01:21:33.848231Z",
+  "generatedAt": "2026-06-01T01:24:11.167200Z",
   "items": [
+    {
+      "id": "specimens/40078",
+      "displayDate": "2026-06-01",
+      "title": "Gypsum",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-40078.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-40078-thumb.webp",
+      "aspectRatio": 1.248,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/40078",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/2195315",
       "displayDate": "2026-05-31",
