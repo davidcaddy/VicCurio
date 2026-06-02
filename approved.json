@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-01T01:24:11.167200Z",
+  "generatedAt": "2026-06-02T01:23:26.985201Z",
   "items": [
+    {
+      "id": "items/1770312",
+      "displayDate": "2026-06-02",
+      "title": "Photograph - Crankless Engines (Australia) Pty Ltd, 8-Cylinder Gas Engine, Fitzroy, Victoria, 1921",
+      "summary": "From an album containing 51 photographs of various engines and component parts produced by Crankless Engines (Australia) Pty Ltd. Crankless Engines (Aust) Pty Ltd was formed in Melbourne in 1920 to develop and manufacture a new engine design invented in about 1917 by British-born, Australian resident Anthony George Maldon Michell. The crankless engine was based on a simple yet ingenious method of eliminating many moving parts by replacing the crankshaft, connecting rods and bearings of conventional engines with a moving slanted plate which transmits motion to pistons via lubricated slipper blocks attached to the pistons with universal joints. Crankless Engines (Aust) Pty Ltd established a factory at 129 Greeves Street, Fitzroy and an office at 9 Queen Street in Melbourne. Lack of interest in the design by major American and British manufactures meant that by the late 1920s the Crankless Engine company was not producing its own engines but did licence the design to be built by others. Crankless Engines was placed in receivership in February 1945.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1770312.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-1770312-thumb.webp",
+      "aspectRatio": 1.35,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/1770312",
+      "location": {
+        "name": "Fitzroy",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/40078",
       "displayDate": "2026-06-01",
