@@ -1,7 +1,29 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-02T01:23:26.985201Z",
+  "generatedAt": "2026-06-03T01:27:57.106060Z",
   "items": [
+    {
+      "id": "items/256606",
+      "displayDate": "2026-06-03",
+      "title": "Tailor's Dummy - Male, Non-Adjustable, circa 1926",
+      "summary": "Alternative Name(s): Mannequin Non-adjustable tailor's dummy used in coat, jacket and vest making at Simpson's Glove Factory, circa 1926. It was probably used for male garments as there are no breast raises. It was found in the handbag area upstairs. Simpson's Gloves was formed in 1924 and produced leather gloves and coats, handbags, helmets and associated leather goods. The company first operated in Smith Street, and subsequently Alexandra Parade, Collingwood, relocating to Victoria Street, Richmond in 1928, where it remained until 1988.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-256606.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-256606-thumb.webp",
+      "aspectRatio": 0.463,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/256606",
+      "location": {
+        "name": "Collingwood",
+        "region": "Greater Melbourne",
+        "showOnMap": false
+      },
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/1770312",
       "displayDate": "2026-06-02",
