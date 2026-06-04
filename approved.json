@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-03T01:27:57.106060Z",
+  "generatedAt": "2026-06-04T01:28:13.620132Z",
   "items": [
+    {
+      "id": "items/260693",
+      "displayDate": "2026-06-04",
+      "title": "Sandpaper - Vitex, circa 1970-1990",
+      "summary": "Sandpaper manufactured by Vitex, circa 1970-1990. It was taken from Area A at Adolph Bruhn & Son's Wood Turners Shop, 283 Coventry Street, South Melbourne. The business was established by Adolph Bruhn circa 1893 in Little Collins Street, Melbourne. Upon his death in 1919 it was then operated by Adolph's son Sophus Christopher Bruhn. Upon Sophus's death in 1959 his son Sophus Walter Bruhn took over the business. In 1970 Sophus reduced the scale of the business and relocated to South Melbourne. The business closed upon Sophus's death in January 1990. Adolph Bruhn migrated to Australia from Germany in 1884, at the age of 29. He arrived in Adelaide where he lived for 10 months before moving to Victoria, where he settled, established his business, married and had five children.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-260693.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-260693-thumb.webp",
+      "aspectRatio": 0.745,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/260693",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/256606",
       "displayDate": "2026-06-03",
