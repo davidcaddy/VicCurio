@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-04T01:28:13.620132Z",
+  "generatedAt": "2026-06-05T01:18:36.559434Z",
   "items": [
+    {
+      "id": "items/775080",
+      "displayDate": "2026-06-05",
+      "title": "Photograph - H.V. McKay Massey Harris, Horse-Drawn Lucern Renovator on Display, Sunshine, Victoria, 1935",
+      "summary": "A horse-drawn 16 rigid-tyne lucerne renovator fitted with a special small seeds box for the regeneration and sowing of lucerne crop. Drive for the seed distribution is by flat-steel chain from the right hand side Wheel and seed drop is by rubber tubes.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-775080.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-775080-thumb.webp",
+      "aspectRatio": 1.319,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/775080",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/260693",
       "displayDate": "2026-06-04",
