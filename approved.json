@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-06T01:13:36.785645Z",
+  "generatedAt": "2026-06-07T01:22:13.023745Z",
   "items": [
+    {
+      "id": "items/408327",
+      "displayDate": "2026-06-07",
+      "title": "Motor Car - Hartnett Motor Co. Ltd., 'Tasman' Two-Door Sedan, Melbourne, Victoria, circa 1950",
+      "summary": "Hartnett motor car, two door sedan, circa 1950. One of 135 cars built by a firm led by Sir Laurence Hartnett, between 1950 and 1954. This car is a two door, four seater 'Hartnett Tasman Saloon'. It is similar in size and appearance to a Morris minor tourer. Serial No. & Engine No: 1012. The Museum's Hartnett car is a prototype of the 'Tasman' hardtop version manufactured in 1949-50. It was a compact low cost Australian designed and built motor car intended for the local market. Due to various reasons it never became established and quite quickly went out of production. This particular vehicle was owned by Sir Laurence Hartnett until his death in 1986 and was later donated to the Museum after spending many years on display at 328 Swanston Street. The vehicle has been restored at some stage prior to its acquisition by the Museum and therefore it is unclear how much of the car is in its original state. The chassis (including windscreen surround and firewall), window surrounds and wheel hubs are made of cast aluminium alloy. The rest of the body, grill, wheel rims, hub-caps, dashboard, metal trim around inside of doors and bumper bars are made of ferrous metal with the bumper bars and hub-caps being chrome-plated. The bonnet hinges are chrome-plated non-ferrous metal, as are the door handles, window fittings, \"Hartnett\" name places on the front and back of the car and the headlight surrounds. There is a red enamelled decorative fitting on the front of the bonnet. It features the southern cross stars bisected by a chromed cross with an 'H' in the centre. This motif is also featured on the centre of the steering wheel as the button to signal the horn. There is a red plastic tail reflector (or light?), and glass headlights with bulbs intact.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-408327.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-408327-thumb.webp",
+      "aspectRatio": 1.63,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/408327",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/772397",
       "displayDate": "2026-06-06",
