@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-07T01:22:13.023745Z",
+  "generatedAt": "2026-06-08T01:22:53.350418Z",
   "items": [
+    {
+      "id": "specimens/1707801",
+      "displayDate": "2026-06-08",
+      "title": "Limonite",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1707801.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-1707801-thumb.webp",
+      "aspectRatio": 1.197,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/1707801",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "items/408327",
       "displayDate": "2026-06-07",
