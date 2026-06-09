@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-08T01:22:53.350418Z",
+  "generatedAt": "2026-06-09T01:13:19.865883Z",
   "items": [
+    {
+      "id": "items/766997",
+      "displayDate": "2026-06-09",
+      "title": "Negative - Wedding Party of Archibald McCallum & Myrtle Gould Seated in Car, New South Wales, circa 1915",
+      "summary": "Black and white negative of the wedding party of Archibald McCallum and Myrtle Gould, seated in a Model T Ford car, in New South Wales circa 1915. Archibald McCallum's family lived at Willenabrina in Victoria. This is one of several photographs of the McCallum family in the Museum's collection.",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-766997.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/items-766997-thumb.webp",
+      "aspectRatio": 1.374,
+      "credit": "Museums Victoria",
+      "licence": "Public Domain",
+      "museumUrl": "https://collections.museumsvictoria.com.au/items/766997",
+      "location": null,
+      "tags": [
+        "History & Technology"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "specimens/1707801",
       "displayDate": "2026-06-08",
