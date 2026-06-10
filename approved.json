@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-09T01:13:19.865883Z",
+  "generatedAt": "2026-06-10T01:19:55.484938Z",
   "items": [
+    {
+      "id": "specimens/2516267",
+      "displayDate": "2026-06-10",
+      "title": "Tektite",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2516267.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-2516267-thumb.webp",
+      "aspectRatio": 0.653,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/2516267",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": false
+    },
     {
       "id": "items/766997",
       "displayDate": "2026-06-09",
