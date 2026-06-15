@@ -1,7 +1,25 @@
 {
   "version": "3.0",
-  "generatedAt": "2026-06-10T01:19:55.484938Z",
+  "generatedAt": "2026-06-15T01:27:20.107146Z",
   "items": [
+    {
+      "id": "specimens/46446",
+      "displayDate": "2026-06-15",
+      "title": "Columbite-(Fe)",
+      "summary": "",
+      "funFact": "",
+      "imageUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-46446.webp",
+      "thumbnailUrl": "https://davidcaddy.github.io/VicCurio/assets/images/specimens-46446-thumb.webp",
+      "aspectRatio": 1.484,
+      "credit": "Museums Victoria",
+      "licence": "CC BY",
+      "museumUrl": "https://collections.museumsvictoria.com.au/specimens/46446",
+      "location": null,
+      "tags": [
+        "Natural Sciences"
+      ],
+      "mineralMonday": true
+    },
     {
       "id": "specimens/2516267",
       "displayDate": "2026-06-10",
